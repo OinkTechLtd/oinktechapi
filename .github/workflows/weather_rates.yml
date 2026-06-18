@@ -1,0 +1,75 @@
+name: 🌤 Weather & 💱 Rates Parser
+
+on:
+  schedule:
+    # Каждый час
+    - cron: "15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parse-weather-rates:
+    name: Погода и курсы валют
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Weather parser
+        env:
+          DATA_DIR: data/weather
+        run: |
+          python parsers/weather_parser.py
+          echo "Погода для городов:"
+          python3 -c "import json; d=json.load(open('data/weather/weather_latest.json')); print(d['cities_count'])"
+
+      - name: Run Rates parser
+        env:
+          DATA_DIR: data/rates
+        run: |
+          mkdir -p data/rates
+          python parsers/rates_parser.py
+          echo "USD/RUB:"
+          python3 -c "import json; d=json.load(open('data/rates/rates_latest.json')); print(d['highlight']['USD'])"
+
+      - name: Update global meta
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from datetime import datetime, timezone
+
+          meta = {
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+            "apis": {
+              "tv": "data/tv/schedule_latest.json",
+              "news": "data/news/news_latest.json",
+              "weather": "data/weather/weather_latest.json",
+              "rates": "data/rates/rates_latest.json",
+            }
+          }
+          os.makedirs("data", exist_ok=True)
+          with open("data/meta.json", "w") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+          print("meta.json updated")
+          EOF
+
+      - name: Commit & push
+        run: |
+          git config user.name "OinkTech Bot"
+          git config user.email "bot@oinktech.ru"
+          git add data/weather/ data/rates/ data/meta.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🌤 Weather & 💱 Rates update [$(date '+%Y-%m-%d %H:%M')]"
+            git push
+          fi

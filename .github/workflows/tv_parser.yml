@@ -1,0 +1,60 @@
+name: 📺 TV Schedule Parser
+
+on:
+  schedule:
+    # Каждые 3 часа
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: "Принудительно перестроить расписание"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  parse-tv:
+    name: Парсим расписание телеканалов
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml 2>/dev/null || true
+
+      - name: Run TV parser
+        env:
+          DATA_DIR: data/tv
+        run: |
+          echo "🕐 $(date '+%Y-%m-%d %H:%M:%S') — Запускаем TV парсер"
+          python parsers/tv_parser.py
+          echo "✅ Готово. Файлов в data/tv:"
+          find data/tv -name "*.json" | wc -l
+
+      - name: Commit & push
+        run: |
+          git config user.name "OinkTech Bot"
+          git config user.email "bot@oinktech.ru"
+          git add data/tv/
+          if git diff --staged --quiet; then
+            echo "Нет изменений — пропускаем коммит"
+          else
+            CHANNELS=$(python3 -c "import json; d=json.load(open('data/tv/schedule_latest.json')); print(len(d['channels']))" 2>/dev/null || echo "?")
+            git commit -m "📺 TV schedule update — ${CHANNELS} channels [$(date '+%Y-%m-%d %H:%M')]"
+            git push
+          fi

@@ -1,0 +1,48 @@
+name: 📰 News Parser
+
+on:
+  schedule:
+    # Каждые 6 часов
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parse-news:
+    name: Парсим новости
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Run News parser
+        env:
+          DATA_DIR: data/news
+        run: |
+          echo "📰 $(date '+%Y-%m-%d %H:%M:%S') — Парсим новости"
+          python parsers/news_parser.py
+          echo "Статей:"
+          python3 -c "import json; d=json.load(open('data/news/news_latest.json')); print(d['total'])"
+
+      - name: Commit & push
+        run: |
+          git config user.name "OinkTech Bot"
+          git config user.email "bot@oinktech.ru"
+          git add data/news/
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            COUNT=$(python3 -c "import json; d=json.load(open('data/news/news_latest.json')); print(d['total'])" 2>/dev/null || echo "?")
+            git commit -m "📰 News update — ${COUNT} articles [$(date '+%Y-%m-%d %H:%M')]"
+            git push
+          fi
