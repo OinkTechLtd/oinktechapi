@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 25.6,
-    "feels_like": 26.1,
-    "humidity": 44,
+    "feels_like": 25.1,
+    "humidity": 40,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 355,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 356,
     "wind_direction_text": "С",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-06-20T12:11:59.765807+00:00"
+  "fetched_at": "2026-06-20T14:31:55.687815+00:00"
 }
