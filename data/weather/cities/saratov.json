@@ -5,13 +5,13 @@
   "longitude": 46.0342,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 13.8,
-    "feels_like": 10.8,
+    "temperature": 13.9,
+    "feels_like": 10.9,
     "humidity": 73,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1007.0,
-    "wind_speed_ms": 5.3,
-    "wind_direction_deg": 308,
+    "wind_speed_ms": 5.2,
+    "wind_direction_deg": 310,
     "wind_direction_text": "СЗ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-06-28T22:14:44.862572+00:00"
+  "fetched_at": "2026-06-28T23:32:05.175736+00:00"
 }
