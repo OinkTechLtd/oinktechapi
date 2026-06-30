@@ -5,16 +5,16 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 18.4,
-    "feels_like": 20.4,
-    "humidity": 96,
-    "precipitation_mm": 2.3,
-    "pressure_hpa": 1002.0,
-    "wind_speed_ms": 1.6,
-    "wind_direction_deg": 195,
-    "wind_direction_text": "ЮЮЗ",
-    "weather_code": 63,
-    "description": "Дождь"
+    "temperature": 19.3,
+    "feels_like": 21.5,
+    "humidity": 92,
+    "precipitation_mm": 0.0,
+    "pressure_hpa": 1004.0,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 326,
+    "wind_direction_text": "СЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -128,31 +128,31 @@
     {
       "time": "2026-06-30T18:00",
       "temp": 18.8,
-      "precip_prob": 78,
+      "precip_prob": 85,
       "weather_code": 63
     },
     {
       "time": "2026-06-30T19:00",
       "temp": 19.5,
-      "precip_prob": 75,
+      "precip_prob": 73,
       "weather_code": 3
     },
     {
       "time": "2026-06-30T20:00",
       "temp": 19.5,
-      "precip_prob": 85,
+      "precip_prob": 70,
       "weather_code": 3
     },
     {
       "time": "2026-06-30T21:00",
       "temp": 19.0,
-      "precip_prob": 83,
+      "precip_prob": 78,
       "weather_code": 3
     },
     {
       "time": "2026-06-30T22:00",
       "temp": 18.2,
-      "precip_prob": 78,
+      "precip_prob": 85,
       "weather_code": 63
     },
     {
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-06-30T12:23:52.641260+00:00"
+  "fetched_at": "2026-06-30T15:40:49.564461+00:00"
 }
