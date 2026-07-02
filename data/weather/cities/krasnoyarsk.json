@@ -5,16 +5,16 @@
   "longitude": 92.8932,
   "timezone": "Asia/Krasnoyarsk",
   "current": {
-    "temperature": 17.2,
-    "feels_like": 19.3,
-    "humidity": 98,
+    "temperature": 19.1,
+    "feels_like": 21.5,
+    "humidity": 92,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1008.0,
-    "wind_speed_ms": 0.7,
-    "wind_direction_deg": 257,
-    "wind_direction_text": "ЗЮЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 260,
+    "wind_direction_text": "З",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -158,7 +158,7 @@
     {
       "time": "2026-07-02T23:00",
       "temp": 21.9,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 3
     }
   ],
@@ -168,7 +168,7 @@
       "temp_max": 28.5,
       "temp_min": 17.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 3.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -177,7 +177,7 @@
       "temp_max": 29.6,
       "temp_min": 18.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 2.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -195,7 +195,7 @@
       "temp_max": 31.9,
       "temp_min": 20.8,
       "precipitation_mm": 0.4,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 3.0,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -204,7 +204,7 @@
       "temp_max": 25.6,
       "temp_min": 19.5,
       "precipitation_mm": 30.5,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.4,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -213,7 +213,7 @@
       "temp_max": 26.8,
       "temp_min": 18.9,
       "precipitation_mm": 0.3,
-      "wind_max_ms": 3.7,
+      "wind_max_ms": 2.8,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -222,10 +222,10 @@
       "temp_max": 25.3,
       "temp_min": 17.7,
       "precipitation_mm": 2.4,
-      "wind_max_ms": 4.2,
+      "wind_max_ms": 3.7,
       "weather_code": 51,
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-01T20:53:52.724622+00:00"
+  "fetched_at": "2026-07-02T00:20:44.114458+00:00"
 }
