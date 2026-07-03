@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 22.3,
-    "feels_like": 21.9,
-    "humidity": 60,
-    "precipitation_mm": 0.1,
+    "temperature": 19.8,
+    "feels_like": 20.6,
+    "humidity": 78,
+    "precipitation_mm": 0.0,
     "pressure_hpa": 1001.0,
-    "wind_speed_ms": 3.4,
-    "wind_direction_deg": 168,
+    "wind_speed_ms": 2.5,
+    "wind_direction_deg": 153,
     "wind_direction_text": "ЮЮВ",
-    "weather_code": 51,
-    "description": "Лёгкая морось"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -86,7 +86,7 @@
     {
       "time": "2026-07-03T11:00",
       "temp": 24.2,
-      "precip_prob": 8,
+      "precip_prob": 4,
       "weather_code": 1
     },
     {
@@ -98,55 +98,55 @@
     {
       "time": "2026-07-03T13:00",
       "temp": 26.3,
-      "precip_prob": 15,
+      "precip_prob": 31,
       "weather_code": 1
     },
     {
       "time": "2026-07-03T14:00",
       "temp": 26.2,
-      "precip_prob": 16,
+      "precip_prob": 52,
       "weather_code": 1
     },
     {
       "time": "2026-07-03T15:00",
       "temp": 26.0,
-      "precip_prob": 16,
+      "precip_prob": 63,
       "weather_code": 0
     },
     {
       "time": "2026-07-03T16:00",
       "temp": 25.7,
-      "precip_prob": 17,
+      "precip_prob": 55,
       "weather_code": 51
     },
     {
       "time": "2026-07-03T17:00",
       "temp": 25.7,
-      "precip_prob": 18,
+      "precip_prob": 37,
       "weather_code": 0
     },
     {
       "time": "2026-07-03T18:00",
       "temp": 25.7,
-      "precip_prob": 18,
+      "precip_prob": 22,
       "weather_code": 1
     },
     {
       "time": "2026-07-03T19:00",
       "temp": 25.0,
-      "precip_prob": 18,
+      "precip_prob": 17,
       "weather_code": 1
     },
     {
       "time": "2026-07-03T20:00",
       "temp": 23.6,
-      "precip_prob": 17,
+      "precip_prob": 15,
       "weather_code": 1
     },
     {
       "time": "2026-07-03T21:00",
       "temp": 21.2,
-      "precip_prob": 16,
+      "precip_prob": 14,
       "weather_code": 51
     },
     {
@@ -158,7 +158,7 @@
     {
       "time": "2026-07-03T23:00",
       "temp": 19.7,
-      "precip_prob": 11,
+      "precip_prob": 15,
       "weather_code": 1
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-07-03T14:32:35.303574+00:00"
+  "fetched_at": "2026-07-03T16:45:06.812432+00:00"
 }
