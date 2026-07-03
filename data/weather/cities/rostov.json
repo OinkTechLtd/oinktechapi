@@ -5,14 +5,14 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 31.7,
-    "feels_like": 30.8,
-    "humidity": 25,
+    "temperature": 28.6,
+    "feels_like": 28.3,
+    "humidity": 34,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 75,
-    "wind_direction_text": "ВСВ",
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 31,
+    "wind_direction_text": "ССВ",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -127,15 +127,15 @@
     },
     {
       "time": "2026-07-03T18:00",
-      "temp": 33.5,
+      "temp": 33.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-03T19:00",
-      "temp": 32.7,
+      "temp": 32.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-03T20:00",
@@ -145,7 +145,7 @@
     },
     {
       "time": "2026-07-03T21:00",
-      "temp": 29.2,
+      "temp": 29.4,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -157,7 +157,7 @@
     },
     {
       "time": "2026-07-03T23:00",
-      "temp": 27.3,
+      "temp": 27.2,
       "precip_prob": 3,
       "weather_code": 3
     }
@@ -174,21 +174,21 @@
     },
     {
       "date": "2026-07-04",
-      "temp_max": 29.2,
-      "temp_min": 21.7,
-      "precipitation_mm": 1.1,
-      "wind_max_ms": 2.5,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 29.7,
+      "temp_min": 22.3,
+      "precipitation_mm": 0.5,
+      "wind_max_ms": 2.8,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-05",
       "temp_max": 27.7,
       "temp_min": 20.2,
-      "precipitation_mm": 3.9,
+      "precipitation_mm": 3.8,
       "wind_max_ms": 4.3,
-      "weather_code": 80,
-      "description": "Ливень"
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-07-06",
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-03T16:45:07.400589+00:00"
+  "fetched_at": "2026-07-03T18:38:44.951240+00:00"
 }
