@@ -1,4 +1,138 @@
 {
-  "updated_at": "2026-07-04T00:21:37.341659+00:00",
-  "cities": []
+  "updated_at": "2026-07-04T04:51:27.240737+00:00",
+  "cities": [
+    {
+      "key": "moscow",
+      "name": "Москва",
+      "temp": 17.3,
+      "description": "Небольшой дождь",
+      "url": "cities/moscow.json"
+    },
+    {
+      "key": "spb",
+      "name": "Санкт-Петербург",
+      "temp": 17.4,
+      "description": "Переменная облачность",
+      "url": "cities/spb.json"
+    },
+    {
+      "key": "novosibirsk",
+      "name": "Новосибирск",
+      "temp": 25.2,
+      "description": "Ясно",
+      "url": "cities/novosibirsk.json"
+    },
+    {
+      "key": "ekaterinburg",
+      "name": "Екатеринбург",
+      "temp": 20.9,
+      "description": "Пасмурно",
+      "url": "cities/ekaterinburg.json"
+    },
+    {
+      "key": "kazan",
+      "name": "Казань",
+      "temp": 21.6,
+      "description": "Ясно",
+      "url": "cities/kazan.json"
+    },
+    {
+      "key": "nizhny_novgorod",
+      "name": "Нижний Новгород",
+      "temp": 20.3,
+      "description": "Преимущественно ясно",
+      "url": "cities/nizhny_novgorod.json"
+    },
+    {
+      "key": "chelyabinsk",
+      "name": "Челябинск",
+      "temp": 20.6,
+      "description": "Переменная облачность",
+      "url": "cities/chelyabinsk.json"
+    },
+    {
+      "key": "samara",
+      "name": "Самара",
+      "temp": 23.7,
+      "description": "Переменная облачность",
+      "url": "cities/samara.json"
+    },
+    {
+      "key": "omsk",
+      "name": "Омск",
+      "temp": 21.2,
+      "description": "Пасмурно",
+      "url": "cities/omsk.json"
+    },
+    {
+      "key": "rostov",
+      "name": "Ростов-на-Дону",
+      "temp": 23.8,
+      "description": "Пасмурно",
+      "url": "cities/rostov.json"
+    },
+    {
+      "key": "ufa",
+      "name": "Уфа",
+      "temp": 22.2,
+      "description": "Преимущественно ясно",
+      "url": "cities/ufa.json"
+    },
+    {
+      "key": "krasnodar",
+      "name": "Краснодар",
+      "temp": 24.4,
+      "description": "Преимущественно ясно",
+      "url": "cities/krasnodar.json"
+    },
+    {
+      "key": "krasnoyarsk",
+      "name": "Красноярск",
+      "temp": 29.6,
+      "description": "Переменная облачность",
+      "url": "cities/krasnoyarsk.json"
+    },
+    {
+      "key": "perm",
+      "name": "Пермь",
+      "temp": 21.6,
+      "description": "Пасмурно",
+      "url": "cities/perm.json"
+    },
+    {
+      "key": "voronezh",
+      "name": "Воронеж",
+      "temp": 25.4,
+      "description": "Пасмурно",
+      "url": "cities/voronezh.json"
+    },
+    {
+      "key": "saratov",
+      "name": "Саратов",
+      "temp": 25.7,
+      "description": "Преимущественно ясно",
+      "url": "cities/saratov.json"
+    },
+    {
+      "key": "tyumen",
+      "name": "Тюмень",
+      "temp": 19.0,
+      "description": "Пасмурно",
+      "url": "cities/tyumen.json"
+    },
+    {
+      "key": "tolyatti",
+      "name": "Тольятти",
+      "temp": 25.0,
+      "description": "Ясно",
+      "url": "cities/tolyatti.json"
+    },
+    {
+      "key": "izhevsk",
+      "name": "Ижевск",
+      "temp": 21.6,
+      "description": "Переменная облачность",
+      "url": "cities/izhevsk.json"
+    }
+  ]
 }
