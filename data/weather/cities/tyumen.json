@@ -5,13 +5,13 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 17.2,
-    "humidity": 96,
+    "temperature": 16.1,
+    "feels_like": 17.0,
+    "humidity": 97,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1002.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 292,
+    "wind_speed_ms": 1.8,
+    "wind_direction_deg": 291,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 0,
     "description": "Ясно"
@@ -227,5 +227,5 @@
       "description": "Гроза с градом"
     }
   ],
-  "fetched_at": "2026-07-04T21:13:47.677678+00:00"
+  "fetched_at": "2026-07-04T22:13:54.279813+00:00"
 }
