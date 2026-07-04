@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 20.5,
-    "feels_like": 21.3,
+    "temperature": 20.0,
+    "feels_like": 20.6,
     "humidity": 72,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.8,
-    "wind_direction_deg": 112,
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 1.9,
+    "wind_direction_deg": 122,
     "wind_direction_text": "ВЮВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -177,7 +177,7 @@
       "temp_max": 25.2,
       "temp_min": 20.9,
       "precipitation_mm": 4.3,
-      "wind_max_ms": 3.1,
+      "wind_max_ms": 3.6,
       "weather_code": 80,
       "description": "Ливень"
     },
@@ -186,7 +186,7 @@
       "temp_max": 26.9,
       "temp_min": 19.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 5.7,
+      "wind_max_ms": 5.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -195,7 +195,7 @@
       "temp_max": 26.6,
       "temp_min": 19.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.2,
+      "wind_max_ms": 2.0,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
@@ -204,7 +204,7 @@
       "temp_max": 28.9,
       "temp_min": 18.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.9,
+      "wind_max_ms": 2.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-04T22:13:30.278569+00:00"
+  "fetched_at": "2026-07-04T23:14:53.265116+00:00"
 }
