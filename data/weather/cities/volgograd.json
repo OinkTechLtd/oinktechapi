@@ -5,14 +5,14 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 34.0,
-    "feels_like": 32.8,
-    "humidity": 20,
+    "temperature": 28.7,
+    "feels_like": 29.4,
+    "humidity": 39,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 118,
-    "wind_direction_text": "ВЮВ",
+    "wind_speed_ms": 0.7,
+    "wind_direction_deg": 27,
+    "wind_direction_text": "ССВ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
   },
@@ -109,55 +109,55 @@
     },
     {
       "time": "2026-07-09T15:00",
-      "temp": 33.9,
+      "temp": 33.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T16:00",
-      "temp": 34.2,
-      "precip_prob": 3,
-      "weather_code": 1
+      "temp": 33.8,
+      "precip_prob": 0,
+      "weather_code": 2
     },
     {
       "time": "2026-07-09T17:00",
-      "temp": 33.9,
+      "temp": 33.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T18:00",
-      "temp": 33.4,
+      "temp": 33.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T19:00",
-      "temp": 32.7,
+      "temp": 32.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T20:00",
-      "temp": 31.0,
+      "temp": 30.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-09T21:00",
-      "temp": 29.6,
+      "temp": 28.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T22:00",
-      "temp": 28.3,
+      "temp": 27.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-09T23:00",
-      "temp": 26.5,
+      "temp": 26.3,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,67 +165,67 @@
   "forecast_7d": [
     {
       "date": "2026-07-09",
-      "temp_max": 34.2,
+      "temp_max": 33.8,
       "temp_min": 21.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 2.3,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-07-10",
-      "temp_max": 34.7,
-      "temp_min": 22.1,
+      "temp_max": 34.1,
+      "temp_min": 21.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 5.2,
+      "wind_max_ms": 5.5,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-07-11",
-      "temp_max": 31.7,
+      "temp_max": 29.1,
       "temp_min": 24.0,
       "precipitation_mm": 0.1,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 4.2,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-12",
-      "temp_max": 30.1,
-      "temp_min": 20.0,
+      "temp_max": 29.6,
+      "temp_min": 19.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.5,
+      "wind_max_ms": 5.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-13",
-      "temp_max": 29.8,
-      "temp_min": 21.1,
+      "temp_max": 29.4,
+      "temp_min": 19.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.8,
+      "wind_max_ms": 5.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-14",
-      "temp_max": 29.8,
-      "temp_min": 21.2,
+      "temp_max": 30.2,
+      "temp_min": 18.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 5.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-15",
-      "temp_max": 31.1,
-      "temp_min": 19.5,
+      "temp_max": 30.8,
+      "temp_min": 18.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.9,
+      "wind_max_ms": 5.0,
       "weather_code": 2,
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-09T12:16:09.450257+00:00"
+  "fetched_at": "2026-07-09T18:08:45.422578+00:00"
 }
