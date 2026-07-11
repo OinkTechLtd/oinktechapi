@@ -5,14 +5,14 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 17.2,
-    "feels_like": 15.2,
-    "humidity": 62,
+    "temperature": 16.5,
+    "feels_like": 14.5,
+    "humidity": 63,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 3.6,
-    "wind_direction_deg": 12,
-    "wind_direction_text": "ССВ",
+    "wind_speed_ms": 3.5,
+    "wind_direction_deg": 10,
+    "wind_direction_text": "С",
     "weather_code": 0,
     "description": "Ясно"
   },
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-11T15:15:05.161003+00:00"
+  "fetched_at": "2026-07-11T16:12:04.616385+00:00"
 }
