@@ -5,16 +5,16 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 22.3,
-    "feels_like": 21.6,
-    "humidity": 52,
+    "temperature": 21.6,
+    "feels_like": 21.3,
+    "humidity": 56,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 259,
-    "wind_direction_text": "З",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 2.1,
+    "wind_direction_deg": 256,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-07-12T22:07:12.023112+00:00"
+  "fetched_at": "2026-07-12T23:09:14.922731+00:00"
 }
