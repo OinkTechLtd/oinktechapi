@@ -5,16 +5,16 @@
   "longitude": 92.8932,
   "timezone": "Asia/Krasnoyarsk",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 17.4,
-    "humidity": 86,
+    "temperature": 19.7,
+    "feels_like": 20.1,
+    "humidity": 69,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1005.0,
-    "wind_speed_ms": 0.7,
-    "wind_direction_deg": 261,
-    "wind_direction_text": "З",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 206,
+    "wind_direction_text": "ЮЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -168,7 +168,7 @@
       "temp_max": 23.0,
       "temp_min": 14.3,
       "precipitation_mm": 2.0,
-      "wind_max_ms": 3.5,
+      "wind_max_ms": 4.0,
       "weather_code": 53,
       "description": "Морось"
     },
@@ -177,7 +177,7 @@
       "temp_max": 24.2,
       "temp_min": 15.1,
       "precipitation_mm": 0.7,
-      "wind_max_ms": 4.9,
+      "wind_max_ms": 4.8,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -186,7 +186,7 @@
       "temp_max": 24.9,
       "temp_min": 14.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.5,
+      "wind_max_ms": 1.7,
       "weather_code": 1,
       "description": "Преимущественно ясно"
     },
@@ -195,7 +195,7 @@
       "temp_max": 27.1,
       "temp_min": 15.6,
       "precipitation_mm": 1.9,
-      "wind_max_ms": 2.7,
+      "wind_max_ms": 3.0,
       "weather_code": 53,
       "description": "Морось"
     },
@@ -204,7 +204,7 @@
       "temp_max": 25.8,
       "temp_min": 17.3,
       "precipitation_mm": 2.3,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 1.9,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -213,7 +213,7 @@
       "temp_max": 22.0,
       "temp_min": 17.0,
       "precipitation_mm": 4.8,
-      "wind_max_ms": 1.9,
+      "wind_max_ms": 4.7,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-14T00:09:52.699389+00:00"
+  "fetched_at": "2026-07-14T03:33:04.024035+00:00"
 }

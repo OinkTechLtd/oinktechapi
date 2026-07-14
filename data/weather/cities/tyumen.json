@@ -5,14 +5,14 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 12.7,
-    "feels_like": 12.1,
-    "humidity": 91,
+    "temperature": 18.1,
+    "feels_like": 17.5,
+    "humidity": 69,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1014.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 62,
-    "wind_direction_text": "ВСВ",
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 79,
+    "wind_direction_text": "В",
     "weather_code": 0,
     "description": "Ясно"
   },
@@ -168,7 +168,7 @@
       "temp_max": 22.7,
       "temp_min": 12.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
+      "wind_max_ms": 2.9,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -177,7 +177,7 @@
       "temp_max": 23.8,
       "temp_min": 14.2,
       "precipitation_mm": 1.0,
-      "wind_max_ms": 4.5,
+      "wind_max_ms": 5.0,
       "weather_code": 53,
       "description": "Морось"
     },
@@ -186,7 +186,7 @@
       "temp_max": 22.3,
       "temp_min": 16.4,
       "precipitation_mm": 32.1,
-      "wind_max_ms": 5.0,
+      "wind_max_ms": 5.1,
       "weather_code": 96,
       "description": "Гроза с градом"
     },
@@ -195,7 +195,7 @@
       "temp_max": 23.6,
       "temp_min": 15.6,
       "precipitation_mm": 3.8,
-      "wind_max_ms": 3.0,
+      "wind_max_ms": 3.9,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -204,7 +204,7 @@
       "temp_max": 22.9,
       "temp_min": 15.6,
       "precipitation_mm": 10.8,
-      "wind_max_ms": 3.5,
+      "wind_max_ms": 2.6,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -213,7 +213,7 @@
       "temp_max": 20.3,
       "temp_min": 16.8,
       "precipitation_mm": 6.9,
-      "wind_max_ms": 3.4,
+      "wind_max_ms": 4.5,
       "weather_code": 55,
       "description": "Сильная морось"
     },
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-14T00:09:56.043538+00:00"
+  "fetched_at": "2026-07-14T03:33:20.861926+00:00"
 }
