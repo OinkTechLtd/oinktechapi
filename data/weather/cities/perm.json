@@ -5,16 +5,16 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 20.9,
-    "feels_like": 21.9,
-    "humidity": 78,
+    "temperature": 19.8,
+    "feels_like": 21.2,
+    "humidity": 86,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.8,
-    "wind_direction_deg": 100,
+    "pressure_hpa": 1007.0,
+    "wind_speed_ms": 2.2,
+    "wind_direction_deg": 85,
     "wind_direction_text": "В",
-    "weather_code": 80,
-    "description": "Ливень"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -128,7 +128,7 @@
     {
       "time": "2026-07-14T18:00",
       "temp": 21.2,
-      "precip_prob": 10,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
@@ -140,19 +140,19 @@
     {
       "time": "2026-07-14T20:00",
       "temp": 20.4,
-      "precip_prob": 23,
+      "precip_prob": 13,
       "weather_code": 80
     },
     {
       "time": "2026-07-14T21:00",
       "temp": 19.5,
-      "precip_prob": 13,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T22:00",
       "temp": 18.4,
-      "precip_prob": 8,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-07-14T14:13:38.655011+00:00"
+  "fetched_at": "2026-07-14T15:48:47.757931+00:00"
 }

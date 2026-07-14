@@ -5,14 +5,14 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 20.6,
-    "feels_like": 22.3,
-    "humidity": 82,
+    "temperature": 19.4,
+    "feels_like": 21.5,
+    "humidity": 88,
     "precipitation_mm": 0.4,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.8,
-    "wind_direction_deg": 103,
-    "wind_direction_text": "ВЮВ",
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 1.1,
+    "wind_direction_deg": 146,
+    "wind_direction_text": "ЮВ",
     "weather_code": 80,
     "description": "Ливень"
   },
@@ -122,43 +122,43 @@
     {
       "time": "2026-07-14T17:00",
       "temp": 21.4,
-      "precip_prob": 78,
+      "precip_prob": 55,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T18:00",
       "temp": 20.6,
-      "precip_prob": 55,
+      "precip_prob": 43,
       "weather_code": 80
     },
     {
       "time": "2026-07-14T19:00",
       "temp": 19.7,
-      "precip_prob": 55,
+      "precip_prob": 48,
       "weather_code": 95
     },
     {
       "time": "2026-07-14T20:00",
       "temp": 19.3,
-      "precip_prob": 50,
+      "precip_prob": 45,
       "weather_code": 80
     },
     {
       "time": "2026-07-14T21:00",
       "temp": 18.5,
-      "precip_prob": 45,
+      "precip_prob": 48,
       "weather_code": 95
     },
     {
       "time": "2026-07-14T22:00",
       "temp": 18.1,
-      "precip_prob": 45,
+      "precip_prob": 53,
       "weather_code": 80
     },
     {
       "time": "2026-07-14T23:00",
       "temp": 17.8,
-      "precip_prob": 45,
+      "precip_prob": 38,
       "weather_code": 95
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-14T14:13:41.956842+00:00"
+  "fetched_at": "2026-07-14T15:48:50.780287+00:00"
 }
