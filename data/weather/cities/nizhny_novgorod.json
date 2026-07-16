@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 17.2,
-    "feels_like": 18.4,
-    "humidity": 94,
+    "feels_like": 17.8,
+    "humidity": 90,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.9,
-    "wind_direction_deg": 286,
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 282,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -44,121 +44,121 @@
     {
       "time": "2026-07-16T04:00",
       "temp": 16.9,
-      "precip_prob": 15,
+      "precip_prob": 48,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T05:00",
       "temp": 16.9,
-      "precip_prob": 33,
+      "precip_prob": 43,
       "weather_code": 80
     },
     {
       "time": "2026-07-16T06:00",
       "temp": 17.0,
-      "precip_prob": 23,
+      "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T07:00",
       "temp": 17.4,
-      "precip_prob": 8,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T08:00",
       "temp": 17.6,
-      "precip_prob": 35,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T09:00",
       "temp": 16.8,
-      "precip_prob": 85,
+      "precip_prob": 80,
       "weather_code": 80
     },
     {
       "time": "2026-07-16T10:00",
       "temp": 16.1,
-      "precip_prob": 93,
+      "precip_prob": 95,
       "weather_code": 63
     },
     {
       "time": "2026-07-16T11:00",
       "temp": 16.2,
-      "precip_prob": 90,
+      "precip_prob": 93,
       "weather_code": 80
     },
     {
       "time": "2026-07-16T12:00",
       "temp": 16.6,
-      "precip_prob": 75,
+      "precip_prob": 88,
       "weather_code": 80
     },
     {
       "time": "2026-07-16T13:00",
       "temp": 16.0,
-      "precip_prob": 40,
+      "precip_prob": 48,
       "weather_code": 80
     },
     {
       "time": "2026-07-16T14:00",
       "temp": 14.7,
-      "precip_prob": 18,
+      "precip_prob": 23,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T15:00",
       "temp": 13.4,
-      "precip_prob": 10,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T16:00",
       "temp": 12.7,
-      "precip_prob": 8,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T17:00",
       "temp": 12.1,
-      "precip_prob": 10,
+      "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T18:00",
       "temp": 11.5,
-      "precip_prob": 15,
+      "precip_prob": 28,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T19:00",
       "temp": 11.4,
-      "precip_prob": 38,
+      "precip_prob": 33,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T20:00",
       "temp": 11.3,
-      "precip_prob": 50,
+      "precip_prob": 43,
       "weather_code": 3
     },
     {
       "time": "2026-07-16T21:00",
       "temp": 11.1,
-      "precip_prob": 68,
+      "precip_prob": 53,
       "weather_code": 61
     },
     {
       "time": "2026-07-16T22:00",
       "temp": 11.1,
-      "precip_prob": 75,
+      "precip_prob": 50,
       "weather_code": 61
     },
     {
       "time": "2026-07-16T23:00",
       "temp": 10.9,
-      "precip_prob": 83,
+      "precip_prob": 50,
       "weather_code": 61
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-16T00:09:19.214739+00:00"
+  "fetched_at": "2026-07-16T03:35:58.541964+00:00"
 }
