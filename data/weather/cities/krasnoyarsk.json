@@ -6,12 +6,12 @@
   "timezone": "Asia/Krasnoyarsk",
   "current": {
     "temperature": 17.3,
-    "feels_like": 18.4,
-    "humidity": 96,
-    "precipitation_mm": 0.6,
+    "feels_like": 18.6,
+    "humidity": 95,
+    "precipitation_mm": 0.4,
     "pressure_hpa": 999.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 237,
+    "wind_speed_ms": 1.8,
+    "wind_direction_deg": 248,
     "wind_direction_text": "ЗЮЗ",
     "weather_code": 80,
     "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-17T19:32:23.453154+00:00"
+  "fetched_at": "2026-07-17T21:08:04.066765+00:00"
 }
