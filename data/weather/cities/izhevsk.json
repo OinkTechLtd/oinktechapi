@@ -5,12 +5,12 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 15.5,
-    "feels_like": 16.0,
-    "humidity": 95,
+    "temperature": 15.7,
+    "feels_like": 15.0,
+    "humidity": 85,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1001.0,
-    "wind_speed_ms": 2.0,
+    "wind_speed_ms": 3.3,
     "wind_direction_deg": 357,
     "wind_direction_text": "С",
     "weather_code": 3,
@@ -86,7 +86,7 @@
     {
       "time": "2026-07-17T11:00",
       "temp": 16.6,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -134,7 +134,7 @@
     {
       "time": "2026-07-17T19:00",
       "temp": 14.3,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
@@ -146,13 +146,13 @@
     {
       "time": "2026-07-17T21:00",
       "temp": 14.1,
-      "precip_prob": 13,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-07-17T22:00",
       "temp": 14.2,
-      "precip_prob": 13,
+      "precip_prob": 20,
       "weather_code": 61
     },
     {
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-17T00:12:25.623809+00:00"
+  "fetched_at": "2026-07-17T03:39:03.139753+00:00"
 }
