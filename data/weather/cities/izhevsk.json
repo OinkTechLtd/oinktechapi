@@ -5,10 +5,10 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 16.9,
-    "feels_like": 17.2,
+    "temperature": 17.0,
+    "feels_like": 17.4,
     "humidity": 92,
-    "precipitation_mm": 0.3,
+    "precipitation_mm": 0.1,
     "pressure_hpa": 1007.0,
     "wind_speed_ms": 3.1,
     "wind_direction_deg": 360,
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-18T13:49:07.788732+00:00"
+  "fetched_at": "2026-07-18T15:14:41.685766+00:00"
 }
