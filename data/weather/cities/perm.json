@@ -5,8 +5,8 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 20.0,
-    "feels_like": 21.6,
+    "temperature": 19.2,
+    "feels_like": 20.5,
     "humidity": 82,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-19T19:31:56.945544+00:00"
+  "fetched_at": "2026-07-19T21:07:13.355188+00:00"
 }
