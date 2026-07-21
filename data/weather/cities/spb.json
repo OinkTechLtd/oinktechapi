@@ -5,13 +5,13 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 13.5,
-    "feels_like": 12.6,
-    "humidity": 92,
+    "temperature": 13.3,
+    "feels_like": 12.9,
+    "humidity": 93,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 3.0,
-    "wind_direction_deg": 55,
+    "wind_speed_ms": 2.1,
+    "wind_direction_deg": 52,
     "wind_direction_text": "СВ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -139,13 +139,13 @@
     },
     {
       "time": "2026-07-21T20:00",
-      "temp": 13.4,
+      "temp": 13.3,
       "precip_prob": 26,
       "weather_code": 3
     },
     {
       "time": "2026-07-21T21:00",
-      "temp": 13.4,
+      "temp": 13.3,
       "precip_prob": 18,
       "weather_code": 3
     },
@@ -174,7 +174,7 @@
     },
     {
       "date": "2026-07-22",
-      "temp_max": 16.2,
+      "temp_max": 16.1,
       "temp_min": 12.6,
       "precipitation_mm": 0.1,
       "wind_max_ms": 3.1,
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-21T16:40:40.560905+00:00"
+  "fetched_at": "2026-07-21T18:39:56.512671+00:00"
 }
