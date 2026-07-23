@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 19.1,
-    "feels_like": 20.8,
+    "feels_like": 21.1,
     "humidity": 90,
-    "precipitation_mm": 0.4,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.8,
-    "wind_direction_deg": 106,
+    "precipitation_mm": 0.5,
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 1.1,
+    "wind_direction_deg": 112,
     "wind_direction_text": "ВЮВ",
     "weather_code": 95,
     "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-23T22:14:21.812748+00:00"
+  "fetched_at": "2026-07-23T23:13:43.054218+00:00"
 }
