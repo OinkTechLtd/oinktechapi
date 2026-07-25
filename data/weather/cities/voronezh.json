@@ -5,14 +5,14 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 20.4,
-    "feels_like": 21.7,
-    "humidity": 78,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 15,
-    "wind_direction_text": "ССВ",
+    "temperature": 19.1,
+    "feels_like": 20.8,
+    "humidity": 87,
+    "precipitation_mm": 0.3,
+    "pressure_hpa": 1007.0,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 39,
+    "wind_direction_text": "СВ",
     "weather_code": 61,
     "description": "Небольшой дождь"
   },
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-25T18:10:30.316694+00:00"
+  "fetched_at": "2026-07-25T19:34:19.480386+00:00"
 }
