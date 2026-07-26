@@ -5,13 +5,13 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 26.7,
-    "feels_like": 29.8,
-    "humidity": 66,
+    "temperature": 25.5,
+    "feels_like": 28.8,
+    "humidity": 73,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1017.0,
     "wind_speed_ms": 1.4,
-    "wind_direction_deg": 159,
+    "wind_direction_deg": 155,
     "wind_direction_text": "ЮЮВ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
@@ -139,25 +139,25 @@
     },
     {
       "time": "2026-07-26T20:00",
-      "temp": 31.3,
+      "temp": 31.1,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-26T21:00",
-      "temp": 29.2,
+      "temp": 29.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-26T22:00",
-      "temp": 27.1,
+      "temp": 26.9,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T23:00",
-      "temp": 25.7,
+      "temp": 25.5,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-07-27",
-      "temp_max": 35.6,
-      "temp_min": 22.2,
+      "temp_max": 35.1,
+      "temp_min": 21.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.8,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-26T17:15:07.691549+00:00"
+  "fetched_at": "2026-07-26T18:14:29.663215+00:00"
 }
