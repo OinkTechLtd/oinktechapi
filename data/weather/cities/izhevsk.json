@@ -5,8 +5,8 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 23.4,
-    "feels_like": 26.0,
+    "temperature": 22.9,
+    "feels_like": 25.3,
     "humidity": 77,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1016.0,
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-26T22:13:29.075387+00:00"
+  "fetched_at": "2026-07-26T23:13:56.977169+00:00"
 }
