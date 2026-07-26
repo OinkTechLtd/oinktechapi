@@ -5,16 +5,16 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 26.1,
+    "temperature": 26.2,
     "feels_like": 26.2,
-    "humidity": 50,
+    "humidity": 49,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 2.9,
-    "wind_direction_deg": 124,
+    "wind_speed_ms": 3.0,
+    "wind_direction_deg": 132,
     "wind_direction_text": "ЮВ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -25,13 +25,13 @@
     },
     {
       "time": "2026-07-26T01:00",
-      "temp": 26.5,
+      "temp": 26.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-26T02:00",
-      "temp": 26.3,
+      "temp": 26.4,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -39,11 +39,11 @@
       "time": "2026-07-26T03:00",
       "temp": 26.1,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T04:00",
-      "temp": 26.1,
+      "temp": 26.2,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -73,19 +73,19 @@
     },
     {
       "time": "2026-07-26T09:00",
-      "temp": 27.9,
+      "temp": 27.7,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-26T10:00",
-      "temp": 29.3,
+      "temp": 29.5,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T11:00",
-      "temp": 31.0,
+      "temp": 31.2,
       "precip_prob": 0,
       "weather_code": 1
     },
@@ -97,69 +97,69 @@
     },
     {
       "time": "2026-07-26T13:00",
-      "temp": 34.4,
+      "temp": 34.2,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T14:00",
-      "temp": 35.5,
+      "temp": 35.4,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-26T15:00",
       "temp": 36.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-26T16:00",
-      "temp": 36.0,
+      "temp": 35.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-26T17:00",
-      "temp": 36.0,
+      "temp": 35.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-26T18:00",
-      "temp": 34.6,
+      "temp": 34.9,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-26T19:00",
-      "temp": 32.5,
+      "temp": 33.0,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T20:00",
-      "temp": 30.8,
+      "temp": 31.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-26T21:00",
-      "temp": 29.2,
+      "temp": 29.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-26T22:00",
-      "temp": 28.3,
+      "temp": 28.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-26T23:00",
-      "temp": 27.9,
+      "temp": 28.3,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-25T23:12:37.184258+00:00"
+  "fetched_at": "2026-07-26T00:14:47.656560+00:00"
 }

@@ -5,9 +5,9 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 15.9,
-    "humidity": 81,
+    "temperature": 16.5,
+    "feels_like": 16.2,
+    "humidity": 82,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1015.0,
     "wind_speed_ms": 2.7,
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-25T23:12:17.538388+00:00"
+  "fetched_at": "2026-07-26T00:14:28.510444+00:00"
 }
