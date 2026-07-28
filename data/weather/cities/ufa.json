@@ -5,16 +5,16 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 31.7,
-    "feels_like": 32.4,
-    "humidity": 43,
+    "temperature": 30.1,
+    "feels_like": 31.6,
+    "humidity": 47,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 3.7,
-    "wind_direction_deg": 197,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 202,
     "wind_direction_text": "ЮЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-28T12:13:13.492971+00:00"
+  "fetched_at": "2026-07-28T14:40:41.353679+00:00"
 }

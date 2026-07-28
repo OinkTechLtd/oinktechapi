@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-07-28T12:13:33.650528+00:00",
+  "updated_at": "2026-07-28T14:41:03.827900+00:00",
   "base_currency": "RUB",
   "fiat": {},
   "crypto": {
-    "bitcoin": {
-      "id": "bitcoin",
-      "name": "Bitcoin",
-      "price_usd": 63425,
-      "price_rub": 4982092,
-      "change_24h": -2.61
-    },
-    "ethereum": {
-      "id": "ethereum",
-      "name": "Ethereum",
-      "price_usd": 1876.25,
-      "price_rub": 147382,
-      "change_24h": -4.26
-    },
-    "tether": {
-      "id": "tether",
-      "name": "Tether",
-      "price_usd": 0.999193,
-      "price_rub": 78.49,
-      "change_24h": -0.01
-    },
-    "solana": {
-      "id": "solana",
-      "name": "Solana",
-      "price_usd": 73.17,
-      "price_rub": 5747.31,
-      "change_24h": -4.49
+    "ripple": {
+      "id": "ripple",
+      "name": "XRP",
+      "price_usd": 1.052,
+      "price_rub": 82.69,
+      "change_24h": -3.49
     },
     "dogecoin": {
       "id": "dogecoin",
       "name": "Dogecoin",
-      "price_usd": 0.06997,
-      "price_rub": 5.5,
-      "change_24h": -3.55
+      "price_usd": 0.069824,
+      "price_rub": 5.49,
+      "change_24h": -2.12
     },
-    "ripple": {
-      "id": "ripple",
-      "name": "XRP",
-      "price_usd": 1.05,
-      "price_rub": 82.45,
-      "change_24h": -4.85
+    "ethereum": {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "price_usd": 1879.33,
+      "price_rub": 147764,
+      "change_24h": -2.39
+    },
+    "solana": {
+      "id": "solana",
+      "name": "Solana",
+      "price_usd": 72.85,
+      "price_rub": 5727.62,
+      "change_24h": -3.26
+    },
+    "bitcoin": {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "price_usd": 63174,
+      "price_rub": 4967154,
+      "change_24h": -2.13
+    },
+    "tether": {
+      "id": "tether",
+      "name": "Tether",
+      "price_usd": 0.999112,
+      "price_rub": 78.56,
+      "change_24h": 0.01
     }
   },
   "highlight": {
     "USD": 0,
     "EUR": 0,
     "CNY": 0,
-    "BTC_USD": 63425,
-    "ETH_USD": 1876.25,
+    "BTC_USD": 63174,
+    "ETH_USD": 1879.33,
     "TON_USD": 0
   }
 }
