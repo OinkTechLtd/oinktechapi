@@ -5,14 +5,14 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 25.2,
-    "feels_like": 28.4,
-    "humidity": 71,
+    "temperature": 23.8,
+    "feels_like": 27.0,
+    "humidity": 75,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1016.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 286,
-    "wind_direction_text": "ЗСЗ",
+    "pressure_hpa": 1015.0,
+    "wind_speed_ms": 0.2,
+    "wind_direction_deg": 360,
+    "wind_direction_text": "С",
     "weather_code": 0,
     "description": "Ясно"
   },
@@ -123,31 +123,31 @@
       "time": "2026-07-28T17:00",
       "temp": 32.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-28T18:00",
       "temp": 31.9,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-28T19:00",
       "temp": 30.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-28T20:00",
       "temp": 28.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-28T21:00",
       "temp": 26.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 0
     },
     {
       "time": "2026-07-28T22:00",
@@ -169,8 +169,8 @@
       "temp_min": 21.4,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.7,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "weather_code": 1,
+      "description": "Преимущественно ясно"
     },
     {
       "date": "2026-07-29",
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-28T16:50:36.936717+00:00"
+  "fetched_at": "2026-07-28T18:45:49.182994+00:00"
 }
