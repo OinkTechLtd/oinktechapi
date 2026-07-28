@@ -5,9 +5,9 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 21.8,
-    "feels_like": 22.6,
-    "humidity": 64,
+    "temperature": 20.5,
+    "feels_like": 21.4,
+    "humidity": 70,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1011.0,
     "wind_speed_ms": 1.4,
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-28T18:45:26.681807+00:00"
+  "fetched_at": "2026-07-28T20:34:12.419811+00:00"
 }
