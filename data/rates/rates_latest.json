@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-07-29T09:49:28.748425+00:00",
+  "updated_at": "2026-07-29T12:20:41.349137+00:00",
   "base_currency": "RUB",
   "fiat": {},
   "crypto": {
-    "tether": {
-      "id": "tether",
-      "name": "Tether",
-      "price_usd": 0.999219,
-      "price_rub": 79.46,
-      "change_24h": 0.01
-    },
-    "solana": {
-      "id": "solana",
-      "name": "Solana",
-      "price_usd": 74.02,
-      "price_rub": 5886.25,
-      "change_24h": 0.99
+    "bitcoin": {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "price_usd": 64270,
+      "price_rub": 5109487,
+      "change_24h": 1.4
     },
     "ethereum": {
       "id": "ethereum",
       "name": "Ethereum",
-      "price_usd": 1918.11,
-      "price_rub": 152535,
-      "change_24h": 2.0
+      "price_usd": 1904.15,
+      "price_rub": 151380,
+      "change_24h": 1.49
     },
-    "dogecoin": {
-      "id": "dogecoin",
-      "name": "Dogecoin",
-      "price_usd": 0.07078,
-      "price_rub": 5.63,
-      "change_24h": 0.84
+    "tether": {
+      "id": "tether",
+      "name": "Tether",
+      "price_usd": 0.999148,
+      "price_rub": 79.43,
+      "change_24h": -0.0
     },
-    "bitcoin": {
-      "id": "bitcoin",
-      "name": "Bitcoin",
-      "price_usd": 64491,
-      "price_rub": 5128564,
-      "change_24h": 1.63
+    "solana": {
+      "id": "solana",
+      "name": "Solana",
+      "price_usd": 73.49,
+      "price_rub": 5842.51,
+      "change_24h": 0.46
     },
     "ripple": {
       "id": "ripple",
       "name": "XRP",
-      "price_usd": 1.089,
-      "price_rub": 86.59,
-      "change_24h": 2.92
+      "price_usd": 1.078,
+      "price_rub": 85.7,
+      "change_24h": 2.7
+    },
+    "dogecoin": {
+      "id": "dogecoin",
+      "name": "Dogecoin",
+      "price_usd": 0.070401,
+      "price_rub": 5.6,
+      "change_24h": 0.59
     }
   },
   "highlight": {
     "USD": 0,
     "EUR": 0,
     "CNY": 0,
-    "BTC_USD": 64491,
-    "ETH_USD": 1918.11,
+    "BTC_USD": 64270,
+    "ETH_USD": 1904.15,
     "TON_USD": 0
   }
 }
