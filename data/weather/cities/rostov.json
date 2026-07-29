@@ -5,9 +5,9 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 17.8,
-    "feels_like": 16.9,
-    "humidity": 57,
+    "temperature": 17.0,
+    "feels_like": 16.2,
+    "humidity": 61,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1019.0,
     "wind_speed_ms": 1.1,
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-29T22:13:43.515341+00:00"
+  "fetched_at": "2026-07-29T23:16:22.282143+00:00"
 }
