@@ -5,13 +5,13 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 20.5,
-    "feels_like": 21.9,
-    "humidity": 81,
+    "temperature": 19.5,
+    "feels_like": 20.6,
+    "humidity": 85,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1014.0,
-    "wind_speed_ms": 2.2,
-    "wind_direction_deg": 294,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 303,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -44,13 +44,13 @@
     {
       "time": "2026-07-29T04:00",
       "temp": 19.8,
-      "precip_prob": 28,
+      "precip_prob": 20,
       "weather_code": 2
     },
     {
       "time": "2026-07-29T05:00",
       "temp": 19.3,
-      "precip_prob": 20,
+      "precip_prob": 28,
       "weather_code": 3
     },
     {
@@ -68,25 +68,25 @@
     {
       "time": "2026-07-29T08:00",
       "temp": 19.9,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-29T09:00",
       "temp": 20.7,
-      "precip_prob": 3,
+      "precip_prob": 5,
       "weather_code": 2
     },
     {
       "time": "2026-07-29T10:00",
       "temp": 22.4,
-      "precip_prob": 5,
+      "precip_prob": 3,
       "weather_code": 0
     },
     {
       "time": "2026-07-29T11:00",
       "temp": 23.5,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
@@ -116,7 +116,7 @@
     {
       "time": "2026-07-29T16:00",
       "temp": 25.6,
-      "precip_prob": 3,
+      "precip_prob": 5,
       "weather_code": 2
     },
     {
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-29T00:08:34.870475+00:00"
+  "fetched_at": "2026-07-29T03:37:58.845596+00:00"
 }
