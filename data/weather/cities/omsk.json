@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 32.0,
-    "feels_like": 33.4,
-    "humidity": 38,
+    "temperature": 31.8,
+    "feels_like": 32.6,
+    "humidity": 39,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 2.5,
+    "wind_speed_ms": 2.4,
     "wind_direction_deg": 303,
     "wind_direction_text": "ЗСЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -123,7 +123,7 @@
       "time": "2026-07-30T17:00",
       "temp": 32.2,
       "precip_prob": 13,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-30T18:00",
@@ -135,7 +135,7 @@
       "time": "2026-07-30T19:00",
       "temp": 31.1,
       "precip_prob": 14,
-      "weather_code": 2
+      "weather_code": 0
     },
     {
       "time": "2026-07-30T20:00",
@@ -227,5 +227,5 @@
       "description": "Гроза с градом"
     }
   ],
-  "fetched_at": "2026-07-30T09:41:10.326922+00:00"
+  "fetched_at": "2026-07-30T12:03:34.142382+00:00"
 }

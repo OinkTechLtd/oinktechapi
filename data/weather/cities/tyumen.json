@@ -5,13 +5,13 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 32.5,
-    "feels_like": 33.3,
-    "humidity": 39,
+    "temperature": 32.2,
+    "feels_like": 32.5,
+    "humidity": 40,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 4.1,
-    "wind_direction_deg": 212,
+    "pressure_hpa": 1009.0,
+    "wind_speed_ms": 3.8,
+    "wind_direction_deg": 198,
     "wind_direction_text": "ЮЮЗ",
     "weather_code": 0,
     "description": "Ясно"
@@ -87,13 +87,13 @@
       "time": "2026-07-30T11:00",
       "temp": 30.3,
       "precip_prob": 4,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-30T12:00",
       "temp": 31.1,
       "precip_prob": 4,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-30T13:00",
@@ -129,7 +129,7 @@
       "time": "2026-07-30T18:00",
       "temp": 31.5,
       "precip_prob": 1,
-      "weather_code": 2
+      "weather_code": 0
     },
     {
       "time": "2026-07-30T19:00",
@@ -147,19 +147,19 @@
       "time": "2026-07-30T21:00",
       "temp": 22.9,
       "precip_prob": 6,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-30T22:00",
       "temp": 22.0,
       "precip_prob": 13,
-      "weather_code": 0
+      "weather_code": 2
     },
     {
       "time": "2026-07-30T23:00",
       "temp": 21.7,
       "precip_prob": 18,
-      "weather_code": 2
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
@@ -205,8 +205,8 @@
       "temp_min": 17.0,
       "precipitation_mm": 1.2,
       "wind_max_ms": 4.1,
-      "weather_code": 51,
-      "description": "Лёгкая морось"
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-08-04",
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-07-30T09:41:28.875144+00:00"
+  "fetched_at": "2026-07-30T12:03:52.983571+00:00"
 }
