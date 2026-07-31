@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-07-31T19:52:12.043811+00:00",
+  "updated_at": "2026-07-31T21:22:21.907938+00:00",
   "base_currency": "RUB",
   "fiat": {},
   "crypto": {
-    "bitcoin": {
-      "id": "bitcoin",
-      "name": "Bitcoin",
-      "price_usd": 62954,
-      "price_rub": 4988628,
-      "change_24h": -2.81
-    },
     "ethereum": {
       "id": "ethereum",
       "name": "Ethereum",
-      "price_usd": 1867.64,
-      "price_rub": 147996,
-      "change_24h": -2.87
-    },
-    "tether": {
-      "id": "tether",
-      "name": "Tether",
-      "price_usd": 0.999082,
-      "price_rub": 79.17,
-      "change_24h": -0.01
-    },
-    "solana": {
-      "id": "solana",
-      "name": "Solana",
-      "price_usd": 73.09,
-      "price_rub": 5792.44,
-      "change_24h": -1.97
+      "price_usd": 1861.36,
+      "price_rub": 147537,
+      "change_24h": -3.15
     },
     "dogecoin": {
       "id": "dogecoin",
       "name": "Dogecoin",
-      "price_usd": 0.069828,
-      "price_rub": 5.53,
+      "price_usd": 0.069693,
+      "price_rub": 5.52,
       "change_24h": -1.29
+    },
+    "solana": {
+      "id": "solana",
+      "name": "Solana",
+      "price_usd": 73.02,
+      "price_rub": 5787.76,
+      "change_24h": -1.96
+    },
+    "bitcoin": {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "price_usd": 62961,
+      "price_rub": 4990501,
+      "change_24h": -2.69
     },
     "ripple": {
       "id": "ripple",
       "name": "XRP",
       "price_usd": 1.063,
-      "price_rub": 84.27,
-      "change_24h": -2.31
+      "price_rub": 84.23,
+      "change_24h": -2.06
+    },
+    "tether": {
+      "id": "tether",
+      "name": "Tether",
+      "price_usd": 0.999164,
+      "price_rub": 79.2,
+      "change_24h": -0.01
     }
   },
   "highlight": {
     "USD": 0,
     "EUR": 0,
     "CNY": 0,
-    "BTC_USD": 62954,
-    "ETH_USD": 1867.64,
+    "BTC_USD": 62961,
+    "ETH_USD": 1861.36,
     "TON_USD": 0
   }
 }
