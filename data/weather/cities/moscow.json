@@ -5,16 +5,16 @@
   "longitude": 37.6176,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 21.8,
-    "feels_like": 22.5,
-    "humidity": 59,
+    "temperature": 19.8,
+    "feels_like": 20.4,
+    "humidity": 62,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1019.0,
-    "wind_speed_ms": 0.7,
-    "wind_direction_deg": 326,
-    "wind_direction_text": "СЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "pressure_hpa": 1020.0,
+    "wind_speed_ms": 0.4,
+    "wind_direction_deg": 360,
+    "wind_direction_text": "С",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-08-03T18:00",
-      "temp": 23.9,
+      "temp": 24.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-03T19:00",
-      "temp": 23.2,
+      "temp": 23.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-03T20:00",
-      "temp": 22.1,
+      "temp": 22.3,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-08-03T21:00",
-      "temp": 21.0,
+      "temp": 21.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-03T22:00",
-      "temp": 20.2,
+      "temp": 20.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-03T23:00",
-      "temp": 19.5,
+      "temp": 19.6,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-08-04",
-      "temp_max": 25.3,
-      "temp_min": 15.8,
+      "temp_max": 25.5,
+      "temp_min": 16.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.4,
+      "wind_max_ms": 1.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-03T17:20:38.665404+00:00"
+  "fetched_at": "2026-08-03T19:57:00.919679+00:00"
 }
