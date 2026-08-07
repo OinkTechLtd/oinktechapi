@@ -5,16 +5,16 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 21.6,
-    "feels_like": 20.9,
+    "temperature": 21.9,
+    "feels_like": 21.7,
     "humidity": 59,
-    "precipitation_mm": 0.2,
+    "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
-    "wind_speed_ms": 3.2,
-    "wind_direction_deg": 265,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 264,
     "wind_direction_text": "З",
-    "weather_code": 53,
-    "description": "Морось"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-08-07T09:14:42.032201+00:00"
+  "fetched_at": "2026-08-07T10:13:09.339262+00:00"
 }
