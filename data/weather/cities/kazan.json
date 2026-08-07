@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 25.0,
-    "feels_like": 27.0,
+    "temperature": 24.6,
+    "feels_like": 26.8,
     "humidity": 66,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
-    "wind_speed_ms": 1.8,
-    "wind_direction_deg": 196,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 194,
     "wind_direction_text": "ЮЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-08-07T19:14:46.467679+00:00"
+  "fetched_at": "2026-08-07T20:01:16.862503+00:00"
 }

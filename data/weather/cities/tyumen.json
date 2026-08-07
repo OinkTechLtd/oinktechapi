@@ -5,14 +5,14 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 16.5,
-    "feels_like": 15.4,
-    "humidity": 69,
+    "temperature": 15.8,
+    "feels_like": 15.1,
+    "humidity": 77,
     "precipitation_mm": 0.1,
     "pressure_hpa": 1014.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 199,
-    "wind_direction_text": "ЮЮЗ",
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 180,
+    "wind_direction_text": "Ю",
     "weather_code": 51,
     "description": "Лёгкая морось"
   },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-07T19:15:06.849937+00:00"
+  "fetched_at": "2026-08-07T20:01:40.816497+00:00"
 }
