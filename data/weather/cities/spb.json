@@ -5,13 +5,13 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 18.7,
-    "feels_like": 15.4,
+    "temperature": 18.9,
+    "feels_like": 15.6,
     "humidity": 48,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 5.5,
-    "wind_direction_deg": 275,
+    "wind_speed_ms": 5.7,
+    "wind_direction_deg": 280,
     "wind_direction_text": "З",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-08-08T22:00",
-      "temp": 17.5,
+      "temp": 17.4,
       "precip_prob": 38,
       "weather_code": 0
     },
     {
       "time": "2026-08-08T23:00",
-      "temp": 16.9,
+      "temp": 16.8,
       "precip_prob": 48,
       "weather_code": 0
     }
@@ -166,7 +166,7 @@
     {
       "date": "2026-08-08",
       "temp_max": 20.6,
-      "temp_min": 16.9,
+      "temp_min": 16.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 6.5,
       "weather_code": 3,
@@ -184,7 +184,7 @@
     {
       "date": "2026-08-10",
       "temp_max": 26.1,
-      "temp_min": 16.6,
+      "temp_min": 16.5,
       "precipitation_mm": 0.0,
       "wind_max_ms": 5.3,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-08-08T08:01:27.748948+00:00"
+  "fetched_at": "2026-08-08T08:59:39.778074+00:00"
 }
