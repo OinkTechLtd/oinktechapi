@@ -5,13 +5,13 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 35.2,
-    "feels_like": 34.8,
+    "temperature": 34.4,
+    "feels_like": 33.9,
     "humidity": 25,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 33,
+    "wind_speed_ms": 1.8,
+    "wind_direction_deg": 19,
     "wind_direction_text": "ССВ",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -128,25 +128,25 @@
     {
       "time": "2026-08-09T18:00",
       "temp": 35.0,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-09T19:00",
       "temp": 34.0,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-09T20:00",
       "temp": 31.1,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-09T21:00",
       "temp": 29.9,
-      "precip_prob": 5,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -210,22 +210,22 @@
     },
     {
       "date": "2026-08-14",
-      "temp_max": 24.5,
+      "temp_max": 25.1,
       "temp_min": 14.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 2.7,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-08-15",
-      "temp_max": 25.3,
-      "temp_min": 15.2,
+      "temp_max": 26.8,
+      "temp_min": 16.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.1,
+      "wind_max_ms": 1.9,
       "weather_code": 1,
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-08-09T14:52:28.732688+00:00"
+  "fetched_at": "2026-08-09T15:45:53.807949+00:00"
 }
