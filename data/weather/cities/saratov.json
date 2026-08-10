@@ -5,13 +5,13 @@
   "longitude": 46.0342,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 18.6,
-    "feels_like": 18.5,
-    "humidity": 66,
+    "temperature": 17.8,
+    "feels_like": 17.7,
+    "humidity": 69,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1019.0,
-    "wind_speed_ms": 1.3,
-    "wind_direction_deg": 23,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 12,
     "wind_direction_text": "ССВ",
     "weather_code": 0,
     "description": "Ясно"
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-10T21:57:41.615837+00:00"
+  "fetched_at": "2026-08-10T22:56:08.750459+00:00"
 }
