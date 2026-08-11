@@ -5,9 +5,9 @@
   "longitude": 60.6122,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 13.6,
-    "feels_like": 12.9,
-    "humidity": 83,
+    "temperature": 13.3,
+    "feels_like": 12.6,
+    "humidity": 85,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1015.0,
     "wind_speed_ms": 1.9,
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-11T23:03:07.502531+00:00"
+  "fetched_at": "2026-08-11T23:59:14.401338+00:00"
 }
