@@ -5,13 +5,13 @@
   "longitude": 92.8932,
   "timezone": "Asia/Krasnoyarsk",
   "current": {
-    "temperature": 21.8,
-    "feels_like": 22.4,
-    "humidity": 56,
+    "temperature": 23.6,
+    "feels_like": 23.9,
+    "humidity": 49,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.6,
-    "wind_direction_deg": 69,
+    "pressure_hpa": 1010.0,
+    "wind_speed_ms": 2.8,
+    "wind_direction_deg": 66,
     "wind_direction_text": "ВСВ",
     "weather_code": 0,
     "description": "Ясно"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-12T05:01:37.328713+00:00"
+  "fetched_at": "2026-08-12T06:41:34.094624+00:00"
 }
