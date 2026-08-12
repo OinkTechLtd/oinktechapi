@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 23.8,
-    "feels_like": 21.0,
-    "humidity": 42,
+    "temperature": 23.7,
+    "feels_like": 20.7,
+    "humidity": 40,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
     "wind_speed_ms": 5.3,
-    "wind_direction_deg": 293,
+    "wind_direction_deg": 298,
     "wind_direction_text": "ЗСЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -80,49 +80,49 @@
     {
       "time": "2026-08-12T10:00",
       "temp": 17.6,
-      "precip_prob": 9,
+      "precip_prob": 7,
       "weather_code": 51
     },
     {
       "time": "2026-08-12T11:00",
       "temp": 18.8,
-      "precip_prob": 11,
+      "precip_prob": 7,
       "weather_code": 51
     },
     {
       "time": "2026-08-12T12:00",
       "temp": 20.0,
-      "precip_prob": 12,
+      "precip_prob": 6,
       "weather_code": 3
     },
     {
       "time": "2026-08-12T13:00",
       "temp": 20.9,
-      "precip_prob": 11,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-08-12T14:00",
       "temp": 21.3,
-      "precip_prob": 8,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-08-12T15:00",
       "temp": 22.3,
-      "precip_prob": 6,
+      "precip_prob": 2,
       "weather_code": 1
     },
     {
       "time": "2026-08-12T16:00",
       "temp": 23.6,
-      "precip_prob": 4,
+      "precip_prob": 1,
       "weather_code": 1
     },
     {
       "time": "2026-08-12T17:00",
       "temp": 23.8,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-12T10:19:28.978794+00:00"
+  "fetched_at": "2026-08-12T11:57:53.119278+00:00"
 }
