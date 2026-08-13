@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 12.7,
-    "feels_like": 10.8,
-    "humidity": 81,
+    "temperature": 12.3,
+    "feels_like": 10.2,
+    "humidity": 77,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1007.0,
-    "wind_speed_ms": 3.5,
-    "wind_direction_deg": 295,
+    "wind_speed_ms": 3.2,
+    "wind_direction_deg": 294,
     "wind_direction_text": "ЗСЗ",
-    "weather_code": 80,
-    "description": "Ливень"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -167,7 +167,7 @@
       "date": "2026-08-14",
       "temp_max": 12.9,
       "temp_min": 8.9,
-      "precipitation_mm": 3.3,
+      "precipitation_mm": 5.4,
       "wind_max_ms": 5.0,
       "weather_code": 80,
       "description": "Ливень"
@@ -176,7 +176,7 @@
       "date": "2026-08-15",
       "temp_max": 13.1,
       "temp_min": 9.0,
-      "precipitation_mm": 5.4,
+      "precipitation_mm": 4.8,
       "wind_max_ms": 3.6,
       "weather_code": 80,
       "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-13T23:01:49.093258+00:00"
+  "fetched_at": "2026-08-13T23:58:15.605272+00:00"
 }
