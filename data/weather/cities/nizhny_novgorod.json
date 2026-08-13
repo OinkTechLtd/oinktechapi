@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 15.5,
-    "feels_like": 13.7,
-    "humidity": 71,
+    "feels_like": 14.2,
+    "humidity": 77,
     "precipitation_mm": 0.1,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 3.7,
-    "wind_direction_deg": 267,
+    "wind_speed_ms": 3.4,
+    "wind_direction_deg": 263,
     "wind_direction_text": "З",
     "weather_code": 80,
     "description": "Ливень"
@@ -167,7 +167,7 @@
       "date": "2026-08-13",
       "temp_max": 15.5,
       "temp_min": 10.8,
-      "precipitation_mm": 7.0,
+      "precipitation_mm": 8.2,
       "wind_max_ms": 4.3,
       "weather_code": 80,
       "description": "Ливень"
@@ -176,7 +176,7 @@
       "date": "2026-08-14",
       "temp_max": 10.4,
       "temp_min": 8.8,
-      "precipitation_mm": 5.2,
+      "precipitation_mm": 5.4,
       "wind_max_ms": 4.3,
       "weather_code": 61,
       "description": "Небольшой дождь"
@@ -227,5 +227,5 @@
       "description": "Сильный ливень"
     }
   ],
-  "fetched_at": "2026-08-13T10:20:48.541140+00:00"
+  "fetched_at": "2026-08-13T11:59:07.634129+00:00"
 }
