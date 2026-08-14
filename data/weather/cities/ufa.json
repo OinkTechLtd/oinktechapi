@@ -6,15 +6,15 @@
   "timezone": "Asia/Yekaterinburg",
   "current": {
     "temperature": 9.7,
-    "feels_like": 8.9,
-    "humidity": 98,
+    "feels_like": 8.7,
+    "humidity": 97,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 1.3,
-    "wind_direction_deg": 219,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 216,
     "wind_direction_text": "ЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -44,13 +44,13 @@
     {
       "time": "2026-08-15T04:00",
       "temp": 9.8,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T05:00",
       "temp": 9.7,
-      "precip_prob": 10,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -62,13 +62,13 @@
     {
       "time": "2026-08-15T07:00",
       "temp": 9.3,
-      "precip_prob": 5,
+      "precip_prob": 3,
       "weather_code": 2
     },
     {
       "time": "2026-08-15T08:00",
       "temp": 10.6,
-      "precip_prob": 8,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
@@ -86,31 +86,31 @@
     {
       "time": "2026-08-15T11:00",
       "temp": 13.3,
-      "precip_prob": 10,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T12:00",
       "temp": 14.3,
-      "precip_prob": 5,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T13:00",
       "temp": 14.9,
-      "precip_prob": 18,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T14:00",
       "temp": 15.2,
-      "precip_prob": 20,
+      "precip_prob": 18,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T15:00",
       "temp": 15.2,
-      "precip_prob": 30,
+      "precip_prob": 28,
       "weather_code": 3
     },
     {
@@ -122,13 +122,13 @@
     {
       "time": "2026-08-15T17:00",
       "temp": 14.7,
-      "precip_prob": 35,
+      "precip_prob": 33,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T18:00",
       "temp": 13.8,
-      "precip_prob": 45,
+      "precip_prob": 35,
       "weather_code": 61
     },
     {
@@ -146,13 +146,13 @@
     {
       "time": "2026-08-15T21:00",
       "temp": 12.0,
-      "precip_prob": 13,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T22:00",
       "temp": 11.3,
-      "precip_prob": 25,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-14T20:44:45.144932+00:00"
+  "fetched_at": "2026-08-14T21:40:16.564504+00:00"
 }
