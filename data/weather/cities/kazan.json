@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 10.3,
-    "feels_like": 8.1,
-    "humidity": 84,
+    "feels_like": 8.2,
+    "humidity": 85,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1007.0,
-    "wind_speed_ms": 3.1,
-    "wind_direction_deg": 251,
+    "wind_speed_ms": 2.9,
+    "wind_direction_deg": 250,
     "wind_direction_text": "ЗЮЗ",
     "weather_code": 61,
     "description": "Небольшой дождь"
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-14T19:56:59.498941+00:00"
+  "fetched_at": "2026-08-14T20:44:42.264732+00:00"
 }
