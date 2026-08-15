@@ -5,9 +5,9 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 10.9,
-    "feels_like": 8.6,
-    "humidity": 85,
+    "temperature": 10.7,
+    "feels_like": 8.5,
+    "humidity": 87,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
     "wind_speed_ms": 3.5,
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-15T12:58:11.616576+00:00"
+  "fetched_at": "2026-08-15T13:43:01.764472+00:00"
 }
