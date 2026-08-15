@@ -5,13 +5,13 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 13.7,
-    "feels_like": 12.4,
-    "humidity": 81,
+    "temperature": 13.2,
+    "feels_like": 12.0,
+    "humidity": 83,
     "precipitation_mm": 0.2,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.9,
-    "wind_direction_deg": 254,
+    "wind_speed_ms": 2.6,
+    "wind_direction_deg": 257,
     "wind_direction_text": "ЗЮЗ",
     "weather_code": 80,
     "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-15T13:43:25.841926+00:00"
+  "fetched_at": "2026-08-15T14:38:28.884834+00:00"
 }
