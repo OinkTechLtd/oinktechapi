@@ -5,16 +5,16 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 14.6,
-    "feels_like": 13.4,
-    "humidity": 80,
-    "precipitation_mm": 0.1,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 2.9,
-    "wind_direction_deg": 218,
+    "temperature": 15.9,
+    "feels_like": 15.3,
+    "humidity": 76,
+    "precipitation_mm": 0.0,
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 2.0,
+    "wind_direction_deg": 221,
     "wind_direction_text": "ЮЗ",
-    "weather_code": 80,
-    "description": "Ливень"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -92,7 +92,7 @@
     {
       "time": "2026-08-17T12:00",
       "temp": 12.0,
-      "precip_prob": 88,
+      "precip_prob": 95,
       "weather_code": 61
     },
     {
@@ -104,19 +104,19 @@
     {
       "time": "2026-08-17T14:00",
       "temp": 15.0,
-      "precip_prob": 60,
+      "precip_prob": 48,
       "weather_code": 80
     },
     {
       "time": "2026-08-17T15:00",
       "temp": 16.1,
-      "precip_prob": 48,
+      "precip_prob": 40,
       "weather_code": 2
     },
     {
       "time": "2026-08-17T16:00",
       "temp": 16.6,
-      "precip_prob": 48,
+      "precip_prob": 45,
       "weather_code": 80
     },
     {
@@ -128,7 +128,7 @@
     {
       "time": "2026-08-17T18:00",
       "temp": 15.7,
-      "precip_prob": 30,
+      "precip_prob": 40,
       "weather_code": 80
     },
     {
@@ -140,19 +140,19 @@
     {
       "time": "2026-08-17T20:00",
       "temp": 15.2,
-      "precip_prob": 8,
+      "precip_prob": 5,
       "weather_code": 2
     },
     {
       "time": "2026-08-17T21:00",
       "temp": 14.6,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-17T22:00",
       "temp": 14.0,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-17T08:59:59.884296+00:00"
+  "fetched_at": "2026-08-17T09:56:39.247980+00:00"
 }
