@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 15.4,
-    "feels_like": 16.0,
-    "humidity": 96,
-    "precipitation_mm": 1.0,
+    "temperature": 15.2,
+    "feels_like": 15.7,
+    "humidity": 95,
+    "precipitation_mm": 0.1,
     "pressure_hpa": 1004.0,
-    "wind_speed_ms": 1.9,
-    "wind_direction_deg": 108,
-    "wind_direction_text": "ВЮВ",
-    "weather_code": 55,
-    "description": "Сильная морось"
+    "wind_speed_ms": 1.7,
+    "wind_direction_deg": 80,
+    "wind_direction_text": "В",
+    "weather_code": 53,
+    "description": "Морось"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-17T17:44:42.441347+00:00"
+  "fetched_at": "2026-08-17T18:56:32.960961+00:00"
 }
