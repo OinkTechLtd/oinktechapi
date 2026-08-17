@@ -5,16 +5,16 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 14.5,
-    "feels_like": 14.6,
+    "temperature": 14.2,
+    "feels_like": 13.9,
     "humidity": 99,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 253,
+    "pressure_hpa": 1007.0,
+    "wind_speed_ms": 2.9,
+    "wind_direction_deg": 258,
     "wind_direction_text": "ЗЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-17T20:42:57.688927+00:00"
+  "fetched_at": "2026-08-17T21:40:05.837679+00:00"
 }
