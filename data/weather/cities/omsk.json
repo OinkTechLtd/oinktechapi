@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 15.5,
-    "feels_like": 13.8,
-    "humidity": 67,
+    "temperature": 14.7,
+    "feels_like": 13.6,
+    "humidity": 72,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1006.0,
-    "wind_speed_ms": 2.8,
-    "wind_direction_deg": 245,
+    "wind_speed_ms": 2.0,
+    "wind_direction_deg": 238,
     "wind_direction_text": "ЗЮЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-17T16:44:54.608629+00:00"
+  "fetched_at": "2026-08-17T17:44:44.045049+00:00"
 }
