@@ -1,136 +1,136 @@
 {
-  "updated_at": "2026-08-18T16:48:16.916398+00:00",
+  "updated_at": "2026-08-18T17:42:29.607311+00:00",
   "cities": [
     {
       "key": "moscow",
       "name": "Москва",
-      "temp": 20.5,
+      "temp": 19.7,
       "description": "Пасмурно",
       "url": "cities/moscow.json"
     },
     {
       "key": "spb",
       "name": "Санкт-Петербург",
-      "temp": 18.4,
+      "temp": 18.1,
       "description": "Пасмурно",
       "url": "cities/spb.json"
     },
     {
       "key": "novosibirsk",
       "name": "Новосибирск",
-      "temp": 13.5,
+      "temp": 13.4,
       "description": "Переменная облачность",
       "url": "cities/novosibirsk.json"
     },
     {
       "key": "ekaterinburg",
       "name": "Екатеринбург",
-      "temp": 15.4,
+      "temp": 14.7,
       "description": "Переменная облачность",
       "url": "cities/ekaterinburg.json"
     },
     {
       "key": "kazan",
       "name": "Казань",
-      "temp": 19.3,
+      "temp": 18.6,
       "description": "Преимущественно ясно",
       "url": "cities/kazan.json"
     },
     {
       "key": "nizhny_novgorod",
       "name": "Нижний Новгород",
-      "temp": 19.3,
-      "description": "Ясно",
+      "temp": 18.4,
+      "description": "Преимущественно ясно",
       "url": "cities/nizhny_novgorod.json"
     },
     {
       "key": "chelyabinsk",
       "name": "Челябинск",
-      "temp": 17.1,
+      "temp": 16.4,
       "description": "Пасмурно",
       "url": "cities/chelyabinsk.json"
     },
     {
       "key": "samara",
       "name": "Самара",
-      "temp": 23.9,
+      "temp": 23.0,
       "description": "Ясно",
       "url": "cities/samara.json"
     },
     {
       "key": "omsk",
       "name": "Омск",
-      "temp": 13.5,
+      "temp": 13.2,
       "description": "Ясно",
       "url": "cities/omsk.json"
     },
     {
       "key": "rostov",
       "name": "Ростов-на-Дону",
-      "temp": 28.9,
+      "temp": 27.4,
       "description": "Ясно",
       "url": "cities/rostov.json"
     },
     {
       "key": "ufa",
       "name": "Уфа",
-      "temp": 17.8,
+      "temp": 17.2,
       "description": "Пасмурно",
       "url": "cities/ufa.json"
     },
     {
-      "key": "krasnoyarsk",
-      "name": "Красноярск",
-      "temp": 12.5,
+      "key": "krasnodar",
+      "name": "Краснодар",
+      "temp": 27.0,
       "description": "Ясно",
-      "url": "cities/krasnoyarsk.json"
+      "url": "cities/krasnodar.json"
     },
     {
-      "key": "perm",
-      "name": "Пермь",
-      "temp": 15.5,
-      "description": "Пасмурно",
-      "url": "cities/perm.json"
+      "key": "krasnoyarsk",
+      "name": "Красноярск",
+      "temp": 12.1,
+      "description": "Переменная облачность",
+      "url": "cities/krasnoyarsk.json"
     },
     {
       "key": "voronezh",
       "name": "Воронеж",
-      "temp": 27.4,
-      "description": "Переменная облачность",
+      "temp": 26.3,
+      "description": "Преимущественно ясно",
       "url": "cities/voronezh.json"
     },
     {
       "key": "volgograd",
       "name": "Волгоград",
-      "temp": 28.0,
-      "description": "Преимущественно ясно",
+      "temp": 26.2,
+      "description": "Ясно",
       "url": "cities/volgograd.json"
     },
     {
       "key": "saratov",
       "name": "Саратов",
-      "temp": 27.6,
-      "description": "Ясно",
+      "temp": 26.0,
+      "description": "Преимущественно ясно",
       "url": "cities/saratov.json"
     },
     {
       "key": "tyumen",
       "name": "Тюмень",
-      "temp": 12.2,
-      "description": "Ясно",
+      "temp": 11.8,
+      "description": "Преимущественно ясно",
       "url": "cities/tyumen.json"
     },
     {
       "key": "tolyatti",
       "name": "Тольятти",
-      "temp": 21.8,
-      "description": "Преимущественно ясно",
+      "temp": 21.0,
+      "description": "Ясно",
       "url": "cities/tolyatti.json"
     },
     {
       "key": "izhevsk",
       "name": "Ижевск",
-      "temp": 16.5,
+      "temp": 15.8,
       "description": "Переменная облачность",
       "url": "cities/izhevsk.json"
     }
