@@ -5,16 +5,16 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 20.9,
-    "feels_like": 22.8,
-    "humidity": 86,
-    "precipitation_mm": 0.4,
+    "temperature": 20.0,
+    "feels_like": 22.0,
+    "humidity": 89,
+    "precipitation_mm": 0.7,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 272,
+    "wind_speed_ms": 1.8,
+    "wind_direction_deg": 273,
     "wind_direction_text": "З",
-    "weather_code": 95,
-    "description": "Гроза"
+    "weather_code": 96,
+    "description": "Гроза с градом"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-08-21T13:10:23.128101+00:00"
+  "fetched_at": "2026-08-21T13:57:40.425048+00:00"
 }
