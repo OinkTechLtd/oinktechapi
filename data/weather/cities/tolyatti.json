@@ -5,13 +5,13 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 24.9,
-    "feels_like": 24.4,
-    "humidity": 46,
+    "temperature": 23.8,
+    "feels_like": 24.0,
+    "humidity": 54,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 196,
+    "wind_speed_ms": 2.0,
+    "wind_direction_deg": 204,
     "wind_direction_text": "ЮЮЗ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -140,13 +140,13 @@
     {
       "time": "2026-08-21T20:00",
       "temp": 23.5,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-21T21:00",
       "temp": 22.8,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -210,22 +210,22 @@
     },
     {
       "date": "2026-08-26",
-      "temp_max": 22.7,
+      "temp_max": 23.1,
       "temp_min": 14.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.6,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "wind_max_ms": 4.0,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-08-27",
-      "temp_max": 20.5,
+      "temp_max": 18.8,
       "temp_min": 14.9,
-      "precipitation_mm": 0.4,
-      "wind_max_ms": 3.6,
+      "precipitation_mm": 0.1,
+      "wind_max_ms": 4.9,
       "weather_code": 80,
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-21T14:53:25.463125+00:00"
+  "fetched_at": "2026-08-21T15:48:31.906711+00:00"
 }
