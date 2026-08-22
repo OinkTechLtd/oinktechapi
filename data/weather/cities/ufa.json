@@ -5,13 +5,13 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 21.8,
-    "feels_like": 21.7,
-    "humidity": 63,
+    "temperature": 22.3,
+    "feels_like": 21.5,
+    "humidity": 59,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1010.0,
-    "wind_speed_ms": 3.4,
-    "wind_direction_deg": 289,
+    "wind_speed_ms": 3.8,
+    "wind_direction_deg": 290,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -92,25 +92,25 @@
     {
       "time": "2026-08-22T12:00",
       "temp": 20.0,
-      "precip_prob": 15,
+      "precip_prob": 5,
       "weather_code": 2
     },
     {
       "time": "2026-08-22T13:00",
       "temp": 21.3,
-      "precip_prob": 15,
+      "precip_prob": 13,
       "weather_code": 2
     },
     {
       "time": "2026-08-22T14:00",
       "temp": 22.0,
-      "precip_prob": 8,
+      "precip_prob": 13,
       "weather_code": 2
     },
     {
       "time": "2026-08-22T15:00",
       "temp": 22.5,
-      "precip_prob": 8,
+      "precip_prob": 10,
       "weather_code": 2
     },
     {
@@ -140,19 +140,19 @@
     {
       "time": "2026-08-22T20:00",
       "temp": 20.7,
-      "precip_prob": 3,
+      "precip_prob": 8,
       "weather_code": 1
     },
     {
       "time": "2026-08-22T21:00",
       "temp": 19.2,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
       "time": "2026-08-22T22:00",
       "temp": 18.0,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
@@ -212,7 +212,7 @@
       "date": "2026-08-27",
       "temp_max": 16.5,
       "temp_min": 11.2,
-      "precipitation_mm": 5.5,
+      "precipitation_mm": 4.0,
       "wind_max_ms": 4.2,
       "weather_code": 61,
       "description": "Небольшой дождь"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-22T08:47:16.093875+00:00"
+  "fetched_at": "2026-08-22T09:42:02.821855+00:00"
 }
