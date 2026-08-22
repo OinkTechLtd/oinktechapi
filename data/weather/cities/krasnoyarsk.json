@@ -6,12 +6,12 @@
   "timezone": "Asia/Krasnoyarsk",
   "current": {
     "temperature": 13.9,
-    "feels_like": 14.0,
-    "humidity": 94,
+    "feels_like": 13.7,
+    "humidity": 93,
     "precipitation_mm": 0.2,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 237,
+    "wind_speed_ms": 2.1,
+    "wind_direction_deg": 246,
     "wind_direction_text": "ЗЮЗ",
     "weather_code": 53,
     "description": "Морось"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-22T22:37:46.528025+00:00"
+  "fetched_at": "2026-08-22T23:34:31.155514+00:00"
 }
