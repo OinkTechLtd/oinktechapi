@@ -5,14 +5,14 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 17.6,
-    "feels_like": 19.2,
-    "humidity": 87,
+    "temperature": 19.4,
+    "feels_like": 20.9,
+    "humidity": 75,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1017.0,
     "wind_speed_ms": 0.4,
-    "wind_direction_deg": 104,
-    "wind_direction_text": "ВЮВ",
+    "wind_direction_deg": 124,
+    "wind_direction_text": "ЮВ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
   },
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-08-23T04:04:29.913343+00:00"
+  "fetched_at": "2026-08-23T04:52:06.798422+00:00"
 }
