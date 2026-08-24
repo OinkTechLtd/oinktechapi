@@ -6,12 +6,12 @@
   "timezone": "Europe/Moscow",
   "current": {
     "temperature": 34.9,
-    "feels_like": 34.1,
-    "humidity": 29,
+    "feels_like": 33.7,
+    "humidity": 27,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 5.3,
-    "wind_direction_deg": 244,
+    "wind_speed_ms": 5.2,
+    "wind_direction_deg": 257,
     "wind_direction_text": "ЗЮЗ",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-08-24T10:03:33.126098+00:00"
+  "fetched_at": "2026-08-24T10:53:20.999144+00:00"
 }
