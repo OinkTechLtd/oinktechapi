@@ -10,7 +10,7 @@
     "humidity": 89,
     "precipitation_mm": 0.1,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 4.4,
+    "wind_speed_ms": 4.3,
     "wind_direction_deg": 302,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 51,
@@ -192,40 +192,40 @@
     },
     {
       "date": "2026-08-27",
-      "temp_max": 18.9,
-      "temp_min": 13.1,
-      "precipitation_mm": 0.7,
-      "wind_max_ms": 2.7,
+      "temp_max": 18.1,
+      "temp_min": 12.5,
+      "precipitation_mm": 0.8,
+      "wind_max_ms": 3.1,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-28",
-      "temp_max": 18.6,
-      "temp_min": 12.2,
+      "temp_max": 18.4,
+      "temp_min": 9.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 3.2,
+      "weather_code": 45,
+      "description": "Туман"
     },
     {
       "date": "2026-08-29",
-      "temp_max": 19.3,
-      "temp_min": 10.1,
+      "temp_max": 19.2,
+      "temp_min": 9.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.8,
+      "wind_max_ms": 4.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-08-30",
-      "temp_max": 15.2,
-      "temp_min": 13.6,
-      "precipitation_mm": 9.3,
-      "wind_max_ms": 5.1,
+      "temp_max": 16.0,
+      "temp_min": 13.8,
+      "precipitation_mm": 4.7,
+      "wind_max_ms": 4.2,
       "weather_code": 53,
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-24T18:58:27.189855+00:00"
+  "fetched_at": "2026-08-24T19:44:25.636381+00:00"
 }
