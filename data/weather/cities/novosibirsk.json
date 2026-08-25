@@ -6,13 +6,13 @@
   "timezone": "Asia/Novosibirsk",
   "current": {
     "temperature": 18.5,
-    "feels_like": 17.2,
-    "humidity": 68,
+    "feels_like": 17.0,
+    "humidity": 65,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1009.0,
+    "pressure_hpa": 1010.0,
     "wind_speed_ms": 4.0,
-    "wind_direction_deg": 4,
-    "wind_direction_text": "С",
+    "wind_direction_deg": 13,
+    "wind_direction_text": "ССВ",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-08-25T08:59:32.495073+00:00"
+  "fetched_at": "2026-08-25T09:50:49.005252+00:00"
 }
