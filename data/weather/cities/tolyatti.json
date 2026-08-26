@@ -10,8 +10,8 @@
     "humidity": 44,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1014.0,
-    "wind_speed_ms": 3.6,
-    "wind_direction_deg": 270,
+    "wind_speed_ms": 3.5,
+    "wind_direction_deg": 277,
     "wind_direction_text": "З",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-26T10:51:38.034068+00:00"
+  "fetched_at": "2026-08-26T11:44:44.742537+00:00"
 }
