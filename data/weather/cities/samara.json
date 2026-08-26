@@ -5,13 +5,13 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 20.1,
-    "feels_like": 19.1,
-    "humidity": 54,
+    "temperature": 18.8,
+    "feels_like": 18.3,
+    "humidity": 61,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1014.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 299,
+    "pressure_hpa": 1015.0,
+    "wind_speed_ms": 1.7,
+    "wind_direction_deg": 298,
     "wind_direction_text": "ЗСЗ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
@@ -210,7 +210,7 @@
     },
     {
       "date": "2026-08-31",
-      "temp_max": 20.0,
+      "temp_max": 21.3,
       "temp_min": 7.3,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.8,
@@ -219,13 +219,13 @@
     },
     {
       "date": "2026-09-01",
-      "temp_max": 23.9,
-      "temp_min": 12.5,
+      "temp_max": 24.7,
+      "temp_min": 12.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.8,
       "weather_code": 3,
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-26T15:52:40.058077+00:00"
+  "fetched_at": "2026-08-26T16:58:31.587123+00:00"
 }
