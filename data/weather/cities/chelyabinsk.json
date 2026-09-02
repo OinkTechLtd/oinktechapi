@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 11.6,
-    "feels_like": 9.3,
-    "humidity": 56,
+    "temperature": 18.5,
+    "feels_like": 17.1,
+    "humidity": 44,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1020.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 205,
-    "wind_direction_text": "ЮЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1019.0,
+    "wind_speed_ms": 0.8,
+    "wind_direction_deg": 247,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -67,97 +67,97 @@
     },
     {
       "time": "2026-09-02T08:00",
-      "temp": 8.6,
+      "temp": 8.4,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T09:00",
-      "temp": 10.6,
+      "temp": 10.4,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T10:00",
-      "temp": 12.6,
+      "temp": 12.5,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T11:00",
-      "temp": 14.6,
+      "temp": 14.5,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T12:00",
-      "temp": 16.4,
+      "temp": 16.3,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-09-02T13:00",
-      "temp": 17.6,
+      "temp": 17.5,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T14:00",
-      "temp": 18.5,
+      "temp": 18.3,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T15:00",
-      "temp": 18.7,
-      "precip_prob": 5,
+      "temp": 18.5,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T16:00",
-      "temp": 18.9,
+      "temp": 18.4,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T17:00",
-      "temp": 18.7,
+      "temp": 18.2,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T18:00",
-      "temp": 18.1,
-      "precip_prob": 5,
+      "temp": 17.9,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T19:00",
-      "temp": 17.3,
-      "precip_prob": 13,
-      "weather_code": 61
+      "temp": 17.4,
+      "precip_prob": 5,
+      "weather_code": 2
     },
     {
       "time": "2026-09-02T20:00",
-      "temp": 16.4,
+      "temp": 16.7,
       "precip_prob": 3,
       "weather_code": 2
     },
     {
       "time": "2026-09-02T21:00",
-      "temp": 15.7,
+      "temp": 16.2,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-09-02T22:00",
-      "temp": 15.2,
+      "temp": 15.7,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-02T23:00",
-      "temp": 14.9,
+      "temp": 15.4,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,19 +165,19 @@
   "forecast_7d": [
     {
       "date": "2026-09-02",
-      "temp_max": 18.9,
+      "temp_max": 18.5,
       "temp_min": 6.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 1.7,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-09-03",
       "temp_max": 23.5,
-      "temp_min": 10.9,
+      "temp_min": 11.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 2.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -211,7 +211,7 @@
     {
       "date": "2026-09-07",
       "temp_max": 25.3,
-      "temp_min": 17.1,
+      "temp_min": 16.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.0,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-09-02T04:40:41.114769+00:00"
+  "fetched_at": "2026-09-02T09:37:01.256318+00:00"
 }
