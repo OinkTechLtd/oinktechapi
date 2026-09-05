@@ -5,16 +5,16 @@
   "longitude": 38.9753,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 28.0,
-    "feels_like": 26.6,
-    "humidity": 31,
+    "temperature": 24.0,
+    "feels_like": 24.1,
+    "humidity": 48,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1015.0,
-    "wind_speed_ms": 2.1,
-    "wind_direction_deg": 338,
-    "wind_direction_text": "ССЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1016.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 256,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,25 +127,25 @@
     },
     {
       "time": "2026-09-05T18:00",
-      "temp": 30.1,
+      "temp": 30.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-05T19:00",
-      "temp": 28.0,
+      "temp": 28.1,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-05T20:00",
-      "temp": 25.9,
+      "temp": 26.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-05T21:00",
-      "temp": 24.3,
+      "temp": 24.4,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -168,16 +168,16 @@
       "temp_max": 31.4,
       "temp_min": 16.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 2.1,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-09-06",
-      "temp_max": 30.8,
-      "temp_min": 18.9,
-      "precipitation_mm": 7.7,
-      "wind_max_ms": 5.2,
+      "temp_max": 31.1,
+      "temp_min": 18.2,
+      "precipitation_mm": 8.5,
+      "wind_max_ms": 5.0,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-09-05T16:04:05.724984+00:00"
+  "fetched_at": "2026-09-05T18:18:02.097124+00:00"
 }
