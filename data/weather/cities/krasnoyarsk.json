@@ -6,12 +6,12 @@
   "timezone": "Asia/Krasnoyarsk",
   "current": {
     "temperature": 5.9,
-    "feels_like": 4.5,
-    "humidity": 95,
+    "feels_like": 4.2,
+    "humidity": 90,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1026.0,
-    "wind_speed_ms": 0.6,
-    "wind_direction_deg": 265,
+    "pressure_hpa": 1027.0,
+    "wind_speed_ms": 0.8,
+    "wind_direction_deg": 262,
     "wind_direction_text": "З",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -86,49 +86,49 @@
     {
       "time": "2026-09-05T11:00",
       "temp": 12.3,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T12:00",
       "temp": 14.3,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T13:00",
       "temp": 15.3,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T14:00",
       "temp": 15.8,
-      "precip_prob": 3,
+      "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T15:00",
       "temp": 16.1,
-      "precip_prob": 4,
+      "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T16:00",
       "temp": 16.1,
-      "precip_prob": 4,
+      "precip_prob": 2,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T17:00",
       "temp": 16.0,
-      "precip_prob": 4,
+      "precip_prob": 2,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T18:00",
       "temp": 15.8,
-      "precip_prob": 3,
+      "precip_prob": 2,
       "weather_code": 0
     },
     {
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-09-04T21:28:39.696665+00:00"
+  "fetched_at": "2026-09-05T00:06:40.365702+00:00"
 }
