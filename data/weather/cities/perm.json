@@ -5,13 +5,13 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 16.8,
-    "feels_like": 16.3,
-    "humidity": 88,
-    "precipitation_mm": 0.1,
+    "temperature": 15.9,
+    "feels_like": 16.2,
+    "humidity": 94,
+    "precipitation_mm": 0.3,
     "pressure_hpa": 1005.0,
-    "wind_speed_ms": 3.9,
-    "wind_direction_deg": 186,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 180,
     "wind_direction_text": "Ю",
     "weather_code": 61,
     "description": "Небольшой дождь"
@@ -103,25 +103,25 @@
     },
     {
       "time": "2026-09-06T14:00",
-      "temp": 16.3,
+      "temp": 16.1,
       "precip_prob": 98,
       "weather_code": 61
     },
     {
       "time": "2026-09-06T15:00",
-      "temp": 16.6,
+      "temp": 16.3,
       "precip_prob": 80,
       "weather_code": 61
     },
     {
       "time": "2026-09-06T16:00",
-      "temp": 16.8,
+      "temp": 16.5,
       "precip_prob": 65,
       "weather_code": 61
     },
     {
       "time": "2026-09-06T17:00",
-      "temp": 16.4,
+      "temp": 16.3,
       "precip_prob": 85,
       "weather_code": 61
     },
@@ -139,44 +139,44 @@
     },
     {
       "time": "2026-09-06T20:00",
-      "temp": 15.7,
-      "precip_prob": 78,
-      "weather_code": 61
-    },
-    {
-      "time": "2026-09-06T21:00",
       "temp": 15.6,
       "precip_prob": 78,
       "weather_code": 61
     },
     {
+      "time": "2026-09-06T21:00",
+      "temp": 15.4,
+      "precip_prob": 78,
+      "weather_code": 61
+    },
+    {
       "time": "2026-09-06T22:00",
-      "temp": 15.5,
+      "temp": 15.3,
       "precip_prob": 60,
       "weather_code": 61
     },
     {
       "time": "2026-09-06T23:00",
-      "temp": 15.3,
+      "temp": 15.1,
       "precip_prob": 48,
-      "weather_code": 61
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-09-06",
-      "temp_max": 16.8,
+      "temp_max": 16.5,
       "temp_min": 14.0,
-      "precipitation_mm": 18.4,
+      "precipitation_mm": 18.5,
       "wind_max_ms": 4.8,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-07",
-      "temp_max": 17.1,
-      "temp_min": 14.8,
-      "precipitation_mm": 8.0,
+      "temp_max": 17.5,
+      "temp_min": 14.4,
+      "precipitation_mm": 9.5,
       "wind_max_ms": 2.2,
       "weather_code": 61,
       "description": "Небольшой дождь"
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-09-06T10:55:56.949878+00:00"
+  "fetched_at": "2026-09-06T14:10:22.976739+00:00"
 }
