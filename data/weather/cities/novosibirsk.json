@@ -5,14 +5,14 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 10.6,
-    "feels_like": 8.3,
-    "humidity": 81,
+    "temperature": 19.7,
+    "feels_like": 18.8,
+    "humidity": 55,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1023.0,
-    "wind_speed_ms": 3.2,
-    "wind_direction_deg": 162,
-    "wind_direction_text": "ЮЮВ",
+    "wind_speed_ms": 2.7,
+    "wind_direction_deg": 194,
+    "wind_direction_text": "ЮЮЗ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
   },
@@ -20,13 +20,13 @@
     {
       "time": "2026-09-06T00:00",
       "temp": 12.5,
-      "precip_prob": 22,
+      "precip_prob": 24,
       "weather_code": 51
     },
     {
       "time": "2026-09-06T01:00",
       "temp": 11.3,
-      "precip_prob": 18,
+      "precip_prob": 20,
       "weather_code": 2
     },
     {
@@ -38,13 +38,13 @@
     {
       "time": "2026-09-06T03:00",
       "temp": 10.7,
-      "precip_prob": 7,
+      "precip_prob": 6,
       "weather_code": 0
     },
     {
       "time": "2026-09-06T04:00",
       "temp": 10.5,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
@@ -68,13 +68,13 @@
     {
       "time": "2026-09-06T08:00",
       "temp": 11.0,
-      "precip_prob": 0,
+      "precip_prob": 1,
       "weather_code": 1
     },
     {
       "time": "2026-09-06T09:00",
       "temp": 12.6,
-      "precip_prob": 1,
+      "precip_prob": 2,
       "weather_code": 1
     },
     {
@@ -92,19 +92,19 @@
     {
       "time": "2026-09-06T12:00",
       "temp": 18.5,
-      "precip_prob": 2,
+      "precip_prob": 1,
       "weather_code": 1
     },
     {
       "time": "2026-09-06T13:00",
       "temp": 20.0,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-06T14:00",
       "temp": 21.2,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
@@ -122,43 +122,43 @@
     {
       "time": "2026-09-06T17:00",
       "temp": 22.8,
-      "precip_prob": 6,
+      "precip_prob": 5,
       "weather_code": 1
     },
     {
       "time": "2026-09-06T18:00",
       "temp": 21.2,
-      "precip_prob": 15,
+      "precip_prob": 12,
       "weather_code": 51
     },
     {
       "time": "2026-09-06T19:00",
       "temp": 18.7,
-      "precip_prob": 20,
+      "precip_prob": 16,
       "weather_code": 53
     },
     {
       "time": "2026-09-06T20:00",
       "temp": 17.5,
-      "precip_prob": 19,
+      "precip_prob": 14,
       "weather_code": 0
     },
     {
       "time": "2026-09-06T21:00",
       "temp": 16.3,
-      "precip_prob": 14,
+      "precip_prob": 8,
       "weather_code": 0
     },
     {
       "time": "2026-09-06T22:00",
       "temp": 15.1,
-      "precip_prob": 10,
+      "precip_prob": 4,
       "weather_code": 0
     },
     {
       "time": "2026-09-06T23:00",
       "temp": 14.7,
-      "precip_prob": 8,
+      "precip_prob": 2,
       "weather_code": 0
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-09-06T00:57:24.098598+00:00"
+  "fetched_at": "2026-09-06T05:57:03.826968+00:00"
 }
