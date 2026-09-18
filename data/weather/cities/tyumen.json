@@ -5,16 +5,16 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 11.3,
-    "feels_like": 8.9,
-    "humidity": 77,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 3.2,
-    "wind_direction_deg": 271,
+    "temperature": 10.9,
+    "feels_like": 9.0,
+    "humidity": 91,
+    "precipitation_mm": 0.2,
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 3.4,
+    "wind_direction_deg": 269,
     "wind_direction_text": "З",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "weather_code": 53,
+    "description": "Морось"
   },
   "hourly": [
     {
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-09-18T15:00:41.106188+00:00"
+  "fetched_at": "2026-09-18T18:28:57.632470+00:00"
 }
