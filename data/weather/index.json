@@ -1,136 +1,136 @@
 {
-  "updated_at": "2026-10-08T22:04:34.092202+00:00",
+  "updated_at": "2026-10-09T02:09:42.720166+00:00",
   "cities": [
     {
       "key": "moscow",
       "name": "Москва",
-      "temp": 8.9,
-      "description": "Переменная облачность",
+      "temp": 7.3,
+      "description": "Пасмурно",
       "url": "cities/moscow.json"
     },
     {
       "key": "spb",
       "name": "Санкт-Петербург",
-      "temp": 10.2,
+      "temp": 9.2,
       "description": "Пасмурно",
       "url": "cities/spb.json"
     },
     {
       "key": "novosibirsk",
       "name": "Новосибирск",
-      "temp": 6.4,
+      "temp": 6.6,
       "description": "Пасмурно",
       "url": "cities/novosibirsk.json"
     },
     {
       "key": "ekaterinburg",
       "name": "Екатеринбург",
-      "temp": 3.1,
+      "temp": 2.1,
       "description": "Преимущественно ясно",
       "url": "cities/ekaterinburg.json"
     },
     {
       "key": "kazan",
       "name": "Казань",
-      "temp": 7.0,
+      "temp": 6.3,
       "description": "Пасмурно",
       "url": "cities/kazan.json"
     },
     {
       "key": "nizhny_novgorod",
       "name": "Нижний Новгород",
-      "temp": 7.9,
-      "description": "Пасмурно",
+      "temp": 7.8,
+      "description": "Переменная облачность",
       "url": "cities/nizhny_novgorod.json"
     },
     {
       "key": "chelyabinsk",
       "name": "Челябинск",
-      "temp": 4.8,
+      "temp": 4.0,
       "description": "Ясно",
       "url": "cities/chelyabinsk.json"
     },
     {
       "key": "samara",
       "name": "Самара",
-      "temp": 6.0,
-      "description": "Пасмурно",
+      "temp": 5.3,
+      "description": "Туман",
       "url": "cities/samara.json"
     },
     {
       "key": "omsk",
       "name": "Омск",
-      "temp": 5.7,
-      "description": "Преимущественно ясно",
+      "temp": 4.6,
+      "description": "Пасмурно",
       "url": "cities/omsk.json"
     },
     {
       "key": "rostov",
       "name": "Ростов-на-Дону",
-      "temp": 12.2,
-      "description": "Ясно",
+      "temp": 10.1,
+      "description": "Туман",
       "url": "cities/rostov.json"
-    },
-    {
-      "key": "ufa",
-      "name": "Уфа",
-      "temp": 4.3,
-      "description": "Преимущественно ясно",
-      "url": "cities/ufa.json"
     },
     {
       "key": "krasnodar",
       "name": "Краснодар",
-      "temp": 12.6,
-      "description": "Преимущественно ясно",
+      "temp": 10.0,
+      "description": "Ясно",
       "url": "cities/krasnodar.json"
     },
     {
       "key": "krasnoyarsk",
       "name": "Красноярск",
-      "temp": 8.4,
-      "description": "Пасмурно",
+      "temp": 9.0,
+      "description": "Преимущественно ясно",
       "url": "cities/krasnoyarsk.json"
+    },
+    {
+      "key": "perm",
+      "name": "Пермь",
+      "temp": 1.8,
+      "description": "Преимущественно ясно",
+      "url": "cities/perm.json"
     },
     {
       "key": "voronezh",
       "name": "Воронеж",
-      "temp": 10.7,
-      "description": "Переменная облачность",
+      "temp": 9.7,
+      "description": "Пасмурно",
       "url": "cities/voronezh.json"
     },
     {
       "key": "volgograd",
       "name": "Волгоград",
-      "temp": 12.0,
-      "description": "Пасмурно",
+      "temp": 10.8,
+      "description": "Переменная облачность",
       "url": "cities/volgograd.json"
     },
     {
       "key": "saratov",
       "name": "Саратов",
-      "temp": 11.1,
+      "temp": 9.2,
       "description": "Пасмурно",
       "url": "cities/saratov.json"
     },
     {
       "key": "tyumen",
       "name": "Тюмень",
-      "temp": 5.1,
-      "description": "Переменная облачность",
+      "temp": 4.7,
+      "description": "Пасмурно",
       "url": "cities/tyumen.json"
     },
     {
       "key": "tolyatti",
       "name": "Тольятти",
-      "temp": 6.9,
+      "temp": 7.2,
       "description": "Пасмурно",
       "url": "cities/tolyatti.json"
     },
     {
       "key": "izhevsk",
       "name": "Ижевск",
-      "temp": 4.2,
+      "temp": 2.2,
       "description": "Пасмурно",
       "url": "cities/izhevsk.json"
     }
