@@ -5,16 +5,16 @@
   "longitude": 46.0342,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 17.0,
-    "feels_like": 16.0,
-    "humidity": 60,
+    "temperature": 13.4,
+    "feels_like": 12.7,
+    "humidity": 78,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1018.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 188,
-    "wind_direction_text": "Ю",
-    "weather_code": 0,
-    "description": "Ясно"
+    "pressure_hpa": 1017.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 200,
+    "wind_direction_text": "ЮЮЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-10-09T18:00",
-      "temp": 17.9,
+      "temp": 17.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-09T19:00",
-      "temp": 17.0,
+      "temp": 17.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-09T20:00",
-      "temp": 15.6,
+      "temp": 15.9,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-09T21:00",
-      "temp": 14.7,
+      "temp": 14.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-09T22:00",
-      "temp": 13.9,
+      "temp": 14.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-09T23:00",
-      "temp": 13.5,
+      "temp": 13.6,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -175,9 +175,9 @@
     {
       "date": "2026-10-10",
       "temp_max": 21.8,
-      "temp_min": 11.6,
+      "temp_min": 11.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 3.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -187,8 +187,8 @@
       "temp_min": 7.1,
       "precipitation_mm": 0.0,
       "wind_max_ms": 1.7,
-      "weather_code": 1,
-      "description": "Преимущественно ясно"
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-10-12",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-09T16:12:14.471365+00:00"
+  "fetched_at": "2026-10-09T20:55:58.057702+00:00"
 }
