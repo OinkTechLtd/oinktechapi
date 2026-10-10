@@ -5,213 +5,213 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 8.6,
-    "feels_like": 5.5,
-    "humidity": 85,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 990.0,
-    "wind_speed_ms": 4.1,
-    "wind_direction_deg": 204,
-    "wind_direction_text": "ЮЮЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "temperature": 9.9,
+    "feels_like": 5.9,
+    "humidity": 90,
+    "precipitation_mm": 0.1,
+    "pressure_hpa": 991.0,
+    "wind_speed_ms": 6.8,
+    "wind_direction_deg": 256,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 51,
+    "description": "Лёгкая морось"
   },
   "hourly": [
     {
       "time": "2026-10-10T00:00",
       "temp": 9.8,
-      "precip_prob": 37,
+      "precip_prob": 100,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T01:00",
       "temp": 9.5,
-      "precip_prob": 19,
+      "precip_prob": 75,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T02:00",
       "temp": 8.9,
-      "precip_prob": 3,
+      "precip_prob": 42,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T03:00",
       "temp": 8.7,
-      "precip_prob": 0,
+      "precip_prob": 25,
       "weather_code": 2
     },
     {
       "time": "2026-10-10T04:00",
-      "temp": 8.6,
-      "precip_prob": 18,
+      "temp": 8.9,
+      "precip_prob": 39,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T05:00",
-      "temp": 8.7,
-      "precip_prob": 48,
-      "weather_code": 3
+      "temp": 8.9,
+      "precip_prob": 69,
+      "weather_code": 51
     },
     {
       "time": "2026-10-10T06:00",
-      "temp": 8.8,
-      "precip_prob": 71,
-      "weather_code": 3
+      "temp": 8.7,
+      "precip_prob": 92,
+      "weather_code": 51
     },
     {
       "time": "2026-10-10T07:00",
-      "temp": 9.0,
-      "precip_prob": 80,
-      "weather_code": 3
+      "temp": 8.9,
+      "precip_prob": 100,
+      "weather_code": 53
     },
     {
       "time": "2026-10-10T08:00",
-      "temp": 8.9,
-      "precip_prob": 82,
+      "temp": 9.1,
+      "precip_prob": 100,
       "weather_code": 51
     },
     {
       "time": "2026-10-10T09:00",
-      "temp": 9.1,
-      "precip_prob": 84,
+      "temp": 9.6,
+      "precip_prob": 100,
       "weather_code": 51
     },
     {
       "time": "2026-10-10T10:00",
-      "temp": 9.6,
-      "precip_prob": 89,
+      "temp": 9.9,
+      "precip_prob": 98,
       "weather_code": 51
     },
     {
       "time": "2026-10-10T11:00",
-      "temp": 10.2,
-      "precip_prob": 94,
+      "temp": 10.0,
+      "precip_prob": 95,
       "weather_code": 51
     },
     {
       "time": "2026-10-10T12:00",
-      "temp": 10.1,
-      "precip_prob": 96,
-      "weather_code": 51
-    },
-    {
-      "time": "2026-10-10T13:00",
       "temp": 9.8,
-      "precip_prob": 94,
-      "weather_code": 51
-    },
-    {
-      "time": "2026-10-10T14:00",
-      "temp": 9.6,
       "precip_prob": 90,
       "weather_code": 51
     },
     {
-      "time": "2026-10-10T15:00",
-      "temp": 9.3,
-      "precip_prob": 86,
-      "weather_code": 51
-    },
-    {
-      "time": "2026-10-10T16:00",
-      "temp": 9.1,
-      "precip_prob": 87,
-      "weather_code": 51
-    },
-    {
-      "time": "2026-10-10T17:00",
-      "temp": 8.9,
-      "precip_prob": 89,
-      "weather_code": 51
-    },
-    {
-      "time": "2026-10-10T18:00",
-      "temp": 8.3,
+      "time": "2026-10-10T13:00",
+      "temp": 9.5,
       "precip_prob": 84,
       "weather_code": 51
     },
     {
-      "time": "2026-10-10T19:00",
-      "temp": 7.7,
-      "precip_prob": 67,
+      "time": "2026-10-10T14:00",
+      "temp": 9.2,
+      "precip_prob": 76,
       "weather_code": 51
     },
     {
+      "time": "2026-10-10T15:00",
+      "temp": 9.0,
+      "precip_prob": 69,
+      "weather_code": 51
+    },
+    {
+      "time": "2026-10-10T16:00",
+      "temp": 8.8,
+      "precip_prob": 63,
+      "weather_code": 51
+    },
+    {
+      "time": "2026-10-10T17:00",
+      "temp": 8.5,
+      "precip_prob": 57,
+      "weather_code": 51
+    },
+    {
+      "time": "2026-10-10T18:00",
+      "temp": 7.6,
+      "precip_prob": 49,
+      "weather_code": 51
+    },
+    {
+      "time": "2026-10-10T19:00",
+      "temp": 7.2,
+      "precip_prob": 36,
+      "weather_code": 3
+    },
+    {
       "time": "2026-10-10T20:00",
-      "temp": 7.3,
-      "precip_prob": 44,
+      "temp": 6.9,
+      "precip_prob": 21,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T21:00",
-      "temp": 7.0,
-      "precip_prob": 25,
+      "temp": 6.9,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T22:00",
-      "temp": 6.8,
-      "precip_prob": 13,
+      "temp": 6.7,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T23:00",
-      "temp": 6.8,
-      "precip_prob": 6,
+      "temp": 6.6,
+      "precip_prob": 0,
       "weather_code": 3
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-10-10",
-      "temp_max": 10.2,
-      "temp_min": 6.8,
-      "precipitation_mm": 2.1,
-      "wind_max_ms": 7.5,
-      "weather_code": 51,
-      "description": "Лёгкая морось"
+      "temp_max": 10.0,
+      "temp_min": 6.6,
+      "precipitation_mm": 2.9,
+      "wind_max_ms": 7.9,
+      "weather_code": 53,
+      "description": "Морось"
     },
     {
       "date": "2026-10-11",
-      "temp_max": 10.7,
-      "temp_min": 6.5,
-      "precipitation_mm": 1.7,
-      "wind_max_ms": 3.4,
+      "temp_max": 10.6,
+      "temp_min": 6.0,
+      "precipitation_mm": 2.4,
+      "wind_max_ms": 3.7,
       "weather_code": 53,
       "description": "Морось"
     },
     {
       "date": "2026-10-12",
-      "temp_max": 8.9,
-      "temp_min": 6.7,
-      "precipitation_mm": 4.8,
-      "wind_max_ms": 5.0,
-      "weather_code": 55,
-      "description": "Сильная морось"
-    },
-    {
-      "date": "2026-10-13",
-      "temp_max": 6.3,
-      "temp_min": 4.2,
-      "precipitation_mm": 0.4,
-      "wind_max_ms": 4.4,
-      "weather_code": 51,
-      "description": "Лёгкая морось"
-    },
-    {
-      "date": "2026-10-14",
-      "temp_max": 10.0,
-      "temp_min": 2.5,
-      "precipitation_mm": 3.9,
-      "wind_max_ms": 5.5,
+      "temp_max": 8.8,
+      "temp_min": 5.8,
+      "precipitation_mm": 4.2,
+      "wind_max_ms": 4.7,
       "weather_code": 53,
       "description": "Морось"
     },
     {
+      "date": "2026-10-13",
+      "temp_max": 8.0,
+      "temp_min": 5.0,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 2.6,
+      "weather_code": 3,
+      "description": "Пасмурно"
+    },
+    {
+      "date": "2026-10-14",
+      "temp_max": 10.4,
+      "temp_min": 3.7,
+      "precipitation_mm": 0.6,
+      "wind_max_ms": 5.2,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
+    },
+    {
       "date": "2026-10-15",
-      "temp_max": 13.6,
-      "temp_min": 9.2,
+      "temp_max": 12.9,
+      "temp_min": 8.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 7.2,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-10-10T00:50:20.290513+00:00"
+  "fetched_at": "2026-10-10T07:06:16.372710+00:00"
 }
