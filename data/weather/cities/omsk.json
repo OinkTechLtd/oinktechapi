@@ -5,14 +5,14 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": -1.2,
-    "feels_like": -4.8,
-    "humidity": 82,
+    "temperature": -1.8,
+    "feels_like": -5.6,
+    "humidity": 87,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1040.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 330,
-    "wind_direction_text": "ССЗ",
+    "pressure_hpa": 1041.0,
+    "wind_speed_ms": 2.2,
+    "wind_direction_deg": 323,
+    "wind_direction_text": "СЗ",
     "weather_code": 0,
     "description": "Ясно"
   },
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-10-14T20:40:59.554723+00:00"
+  "fetched_at": "2026-10-14T23:54:51.449013+00:00"
 }
