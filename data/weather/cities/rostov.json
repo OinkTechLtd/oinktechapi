@@ -5,14 +5,14 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 22.1,
-    "feels_like": 21.6,
-    "humidity": 63,
+    "temperature": 20.0,
+    "feels_like": 20.2,
+    "humidity": 73,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 3.9,
-    "wind_direction_deg": 105,
-    "wind_direction_text": "ВЮВ",
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 2.8,
+    "wind_direction_deg": 77,
+    "wind_direction_text": "ВСВ",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -91,67 +91,67 @@
     },
     {
       "time": "2026-10-15T12:00",
-      "temp": 20.8,
+      "temp": 20.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T13:00",
-      "temp": 22.5,
+      "temp": 21.9,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T14:00",
-      "temp": 23.5,
+      "temp": 22.9,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T15:00",
-      "temp": 23.1,
+      "temp": 22.7,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T16:00",
-      "temp": 22.3,
+      "temp": 21.6,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T17:00",
-      "temp": 20.9,
+      "temp": 20.8,
       "precip_prob": 5,
-      "weather_code": 80
+      "weather_code": 3
     },
     {
       "time": "2026-10-15T18:00",
-      "temp": 20.3,
+      "temp": 20.0,
       "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T19:00",
-      "temp": 19.7,
+      "temp": 19.5,
       "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T20:00",
-      "temp": 19.4,
+      "temp": 19.3,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-10-15T21:00",
-      "temp": 19.0,
+      "temp": 18.9,
       "precip_prob": 8,
-      "weather_code": 3
+      "weather_code": 61
     },
     {
       "time": "2026-10-15T22:00",
-      "temp": 18.5,
+      "temp": 18.2,
       "precip_prob": 13,
       "weather_code": 3
     },
@@ -165,18 +165,18 @@
   "forecast_7d": [
     {
       "date": "2026-10-15",
-      "temp_max": 23.5,
+      "temp_max": 23.0,
       "temp_min": 16.5,
-      "precipitation_mm": 2.5,
+      "precipitation_mm": 1.4,
       "wind_max_ms": 3.9,
-      "weather_code": 80,
-      "description": "Ливень"
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-10-16",
-      "temp_max": 21.2,
-      "temp_min": 15.2,
-      "precipitation_mm": 0.9,
+      "temp_max": 21.4,
+      "temp_min": 15.0,
+      "precipitation_mm": 3.5,
       "wind_max_ms": 3.1,
       "weather_code": 80,
       "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-15T09:53:58.012146+00:00"
+  "fetched_at": "2026-10-15T15:01:01.003967+00:00"
 }
