@@ -5,14 +5,14 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 5.8,
-    "feels_like": 2.3,
-    "humidity": 88,
+    "temperature": 10.2,
+    "feels_like": 7.6,
+    "humidity": 78,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1031.0,
-    "wind_speed_ms": 4.0,
-    "wind_direction_deg": 244,
-    "wind_direction_text": "ЗЮЗ",
+    "pressure_hpa": 1028.0,
+    "wind_speed_ms": 3.2,
+    "wind_direction_deg": 259,
+    "wind_direction_text": "З",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -86,37 +86,37 @@
     {
       "time": "2026-10-16T11:00",
       "temp": 9.4,
-      "precip_prob": 6,
+      "precip_prob": 4,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T12:00",
       "temp": 10.2,
-      "precip_prob": 25,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T13:00",
       "temp": 10.6,
-      "precip_prob": 51,
+      "precip_prob": 26,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T14:00",
       "temp": 10.7,
-      "precip_prob": 73,
+      "precip_prob": 41,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T15:00",
       "temp": 10.3,
-      "precip_prob": 86,
+      "precip_prob": 62,
       "weather_code": 51
     },
     {
       "time": "2026-10-16T16:00",
       "temp": 9.3,
-      "precip_prob": 95,
+      "precip_prob": 85,
       "weather_code": 53
     },
     {
@@ -134,31 +134,31 @@
     {
       "time": "2026-10-16T19:00",
       "temp": 8.0,
-      "precip_prob": 99,
+      "precip_prob": 100,
       "weather_code": 53
     },
     {
       "time": "2026-10-16T20:00",
       "temp": 7.7,
-      "precip_prob": 88,
+      "precip_prob": 90,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T21:00",
       "temp": 7.6,
-      "precip_prob": 62,
+      "precip_prob": 65,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T22:00",
       "temp": 7.3,
-      "precip_prob": 27,
+      "precip_prob": 31,
       "weather_code": 3
     },
     {
       "time": "2026-10-16T23:00",
       "temp": 7.2,
-      "precip_prob": 2,
+      "precip_prob": 6,
       "weather_code": 3
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-10-16T01:20:11.354880+00:00"
+  "fetched_at": "2026-10-16T07:08:59.873577+00:00"
 }
