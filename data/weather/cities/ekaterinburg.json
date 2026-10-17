@@ -5,16 +5,16 @@
   "longitude": 60.6122,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 8.5,
-    "feels_like": 7.1,
-    "humidity": 93,
+    "temperature": 15.5,
+    "feels_like": 13.9,
+    "humidity": 67,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1028.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 262,
+    "pressure_hpa": 1026.0,
+    "wind_speed_ms": 2.9,
+    "wind_direction_deg": 276,
     "wind_direction_text": "З",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -67,67 +67,67 @@
     },
     {
       "time": "2026-10-17T08:00",
-      "temp": 7.7,
+      "temp": 7.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-17T09:00",
-      "temp": 8.2,
+      "temp": 8.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-17T10:00",
-      "temp": 9.7,
+      "temp": 9.6,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-10-17T11:00",
-      "temp": 11.9,
+      "temp": 11.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-17T12:00",
-      "temp": 13.6,
+      "temp": 13.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-17T13:00",
-      "temp": 14.8,
+      "temp": 14.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-17T14:00",
-      "temp": 15.6,
+      "temp": 15.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-17T15:00",
-      "temp": 16.0,
+      "temp": 15.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-10-17T16:00",
-      "temp": 15.8,
+      "temp": 15.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-17T17:00",
-      "temp": 14.8,
+      "temp": 14.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-17T18:00",
-      "temp": 13.2,
+      "temp": 13.0,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -139,45 +139,45 @@
     },
     {
       "time": "2026-10-17T20:00",
-      "temp": 10.8,
+      "temp": 10.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-17T21:00",
-      "temp": 10.3,
+      "temp": 10.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-17T22:00",
-      "temp": 9.9,
+      "temp": 9.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-10-17T23:00",
-      "temp": 9.6,
+      "temp": 9.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-10-17",
-      "temp_max": 16.0,
-      "temp_min": 7.7,
+      "temp_max": 15.8,
+      "temp_min": 7.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 3.0,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-10-18",
-      "temp_max": 15.6,
-      "temp_min": 8.8,
+      "temp_max": 15.4,
+      "temp_min": 8.2,
       "precipitation_mm": 0.1,
-      "wind_max_ms": 3.2,
+      "wind_max_ms": 3.1,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
@@ -210,8 +210,8 @@
     },
     {
       "date": "2026-10-22",
-      "temp_max": 6.3,
-      "temp_min": 1.1,
+      "temp_max": 5.9,
+      "temp_min": 0.6,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.1,
       "weather_code": 3,
@@ -219,13 +219,13 @@
     },
     {
       "date": "2026-10-23",
-      "temp_max": 5.9,
-      "temp_min": -0.8,
+      "temp_max": 7.3,
+      "temp_min": -1.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
-      "weather_code": 0,
-      "description": "Ясно"
+      "wind_max_ms": 2.0,
+      "weather_code": 45,
+      "description": "Туман"
     }
   ],
-  "fetched_at": "2026-10-17T04:24:37.530144+00:00"
+  "fetched_at": "2026-10-17T09:20:15.140138+00:00"
 }
