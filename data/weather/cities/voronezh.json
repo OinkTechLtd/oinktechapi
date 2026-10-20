@@ -5,16 +5,16 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 10.8,
-    "feels_like": 8.0,
-    "humidity": 53,
+    "temperature": 8.6,
+    "feels_like": 5.8,
+    "humidity": 57,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1034.0,
-    "wind_speed_ms": 1.8,
-    "wind_direction_deg": 84,
-    "wind_direction_text": "В",
-    "weather_code": 0,
-    "description": "Ясно"
+    "pressure_hpa": 1035.0,
+    "wind_speed_ms": 1.5,
+    "wind_direction_deg": 106,
+    "wind_direction_text": "ВЮВ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -127,19 +127,19 @@
     },
     {
       "time": "2026-10-20T18:00",
-      "temp": 12.7,
+      "temp": 12.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-20T19:00",
-      "temp": 11.6,
+      "temp": 11.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-20T20:00",
-      "temp": 10.8,
+      "temp": 10.9,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-10-20T22:00",
-      "temp": 9.4,
+      "temp": 9.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-20T23:00",
-      "temp": 8.8,
+      "temp": 8.9,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -174,12 +174,12 @@
     },
     {
       "date": "2026-10-21",
-      "temp_max": 14.5,
+      "temp_max": 14.0,
       "temp_min": 6.0,
-      "precipitation_mm": 0.1,
-      "wind_max_ms": 2.4,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 2.3,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-10-22",
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-10-20T17:03:08.499974+00:00"
+  "fetched_at": "2026-10-20T20:34:43.274288+00:00"
 }
