@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 7.5,
-    "feels_like": 4.6,
-    "humidity": 61,
+    "temperature": 3.7,
+    "feels_like": 1.1,
+    "humidity": 81,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1040.0,
-    "wind_speed_ms": 1.6,
-    "wind_direction_deg": 150,
-    "wind_direction_text": "ЮЮВ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "pressure_hpa": 1039.0,
+    "wind_speed_ms": 1.1,
+    "wind_direction_deg": 139,
+    "wind_direction_text": "ЮВ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -97,49 +97,49 @@
     },
     {
       "time": "2026-10-23T13:00",
-      "temp": 7.0,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-10-23T14:00",
       "temp": 7.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
-      "time": "2026-10-23T15:00",
-      "temp": 7.7,
+      "time": "2026-10-23T14:00",
+      "temp": 8.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
+    },
+    {
+      "time": "2026-10-23T15:00",
+      "temp": 8.2,
+      "precip_prob": 0,
+      "weather_code": 3
     },
     {
       "time": "2026-10-23T16:00",
-      "temp": 7.3,
+      "temp": 7.8,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
+      "time": "2026-10-23T17:00",
+      "temp": 6.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
-      "time": "2026-10-23T17:00",
-      "temp": 6.2,
-      "precip_prob": 0,
-      "weather_code": 1
-    },
-    {
       "time": "2026-10-23T18:00",
-      "temp": 4.6,
+      "temp": 5.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-23T19:00",
-      "temp": 3.2,
+      "temp": 3.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-23T20:00",
-      "temp": 2.4,
+      "temp": 2.6,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -147,37 +147,37 @@
       "time": "2026-10-23T21:00",
       "temp": 2.1,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-10-23T22:00",
-      "temp": 2.1,
+      "temp": 1.7,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-10-23T23:00",
-      "temp": 1.7,
+      "temp": 1.2,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-10-23",
-      "temp_max": 7.7,
+      "temp_max": 8.2,
       "temp_min": -0.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.7,
+      "wind_max_ms": 1.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-24",
-      "temp_max": 9.2,
-      "temp_min": 0.6,
+      "temp_max": 9.7,
+      "temp_min": 1.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.8,
+      "wind_max_ms": 1.6,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-23T10:03:23.176593+00:00"
+  "fetched_at": "2026-10-23T15:03:44.697938+00:00"
 }
