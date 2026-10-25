@@ -5,13 +5,13 @@
   "longitude": 46.0342,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 7.1,
-    "feels_like": 3.3,
-    "humidity": 39,
+    "temperature": 4.2,
+    "feels_like": 0.7,
+    "humidity": 46,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1035.0,
-    "wind_speed_ms": 1.6,
-    "wind_direction_deg": 97,
+    "pressure_hpa": 1036.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 95,
     "wind_direction_text": "В",
     "weather_code": 0,
     "description": "Ясно"
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-10-25T18:00",
-      "temp": 8.2,
+      "temp": 8.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T19:00",
-      "temp": 7.3,
+      "temp": 7.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T20:00",
-      "temp": 6.3,
+      "temp": 6.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T21:00",
-      "temp": 5.4,
+      "temp": 5.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T22:00",
-      "temp": 4.5,
+      "temp": 4.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T23:00",
-      "temp": 3.8,
+      "temp": 3.9,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -174,12 +174,12 @@
     },
     {
       "date": "2026-10-26",
-      "temp_max": 13.3,
-      "temp_min": -0.0,
+      "temp_max": 13.2,
+      "temp_min": 0.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
-      "weather_code": 0,
-      "description": "Ясно"
+      "wind_max_ms": 2.8,
+      "weather_code": 1,
+      "description": "Преимущественно ясно"
     },
     {
       "date": "2026-10-27",
@@ -210,22 +210,22 @@
     },
     {
       "date": "2026-10-30",
-      "temp_max": 13.9,
+      "temp_max": 13.7,
       "temp_min": 2.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 2.3,
       "weather_code": 0,
       "description": "Ясно"
     },
     {
       "date": "2026-10-31",
-      "temp_max": 11.9,
-      "temp_min": 1.8,
+      "temp_max": 12.1,
+      "temp_min": 1.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.5,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "wind_max_ms": 2.1,
+      "weather_code": 0,
+      "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-10-25T16:18:07.800168+00:00"
+  "fetched_at": "2026-10-25T19:36:17.109851+00:00"
 }
