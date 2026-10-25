@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 1.0,
-    "feels_like": -1.7,
-    "humidity": 91,
+    "temperature": 0.5,
+    "feels_like": -2.3,
+    "humidity": 92,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1040.0,
     "wind_speed_ms": 1.0,
-    "wind_direction_deg": 84,
+    "wind_direction_deg": 90,
     "wind_direction_text": "В",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "time": "2026-10-25T01:00",
-      "temp": 1.9,
+      "temp": 1.8,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -37,127 +37,127 @@
     },
     {
       "time": "2026-10-25T03:00",
-      "temp": 1.0,
+      "temp": 0.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-10-25T04:00",
-      "temp": 0.8,
+      "temp": 0.5,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-10-25T05:00",
-      "temp": 0.8,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-10-25T06:00",
-      "temp": 0.6,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-10-25T07:00",
       "temp": 0.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
-      "time": "2026-10-25T08:00",
+      "time": "2026-10-25T06:00",
+      "temp": 0.5,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
+      "time": "2026-10-25T07:00",
       "temp": 0.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
+      "time": "2026-10-25T08:00",
+      "temp": 0.3,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
       "time": "2026-10-25T09:00",
-      "temp": 1.4,
+      "temp": 1.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T10:00",
-      "temp": 3.8,
+      "temp": 3.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T11:00",
-      "temp": 5.8,
+      "temp": 5.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T12:00",
-      "temp": 7.9,
+      "temp": 7.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T13:00",
-      "temp": 9.6,
+      "temp": 9.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T14:00",
-      "temp": 10.7,
+      "temp": 10.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T15:00",
-      "temp": 11.2,
+      "temp": 10.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T16:00",
-      "temp": 11.3,
+      "temp": 11.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T17:00",
-      "temp": 10.1,
+      "temp": 9.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T18:00",
-      "temp": 8.3,
+      "temp": 8.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T19:00",
-      "temp": 6.8,
+      "temp": 6.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T20:00",
-      "temp": 5.5,
+      "temp": 5.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T21:00",
-      "temp": 4.7,
+      "temp": 4.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T22:00",
-      "temp": 4.3,
+      "temp": 4.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-25T23:00",
-      "temp": 3.7,
+      "temp": 3.8,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,10 +165,10 @@
   "forecast_7d": [
     {
       "date": "2026-10-25",
-      "temp_max": 11.4,
-      "temp_min": 0.3,
+      "temp_max": 11.1,
+      "temp_min": 0.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.3,
+      "wind_max_ms": 1.4,
       "weather_code": 1,
       "description": "Преимущественно ясно"
     },
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-10-24T23:13:33.323009+00:00"
+  "fetched_at": "2026-10-25T01:14:09.148848+00:00"
 }
