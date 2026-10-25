@@ -6,12 +6,12 @@
   "timezone": "Asia/Novosibirsk",
   "current": {
     "temperature": -0.1,
-    "feels_like": -3.5,
-    "humidity": 92,
+    "feels_like": -3.4,
+    "humidity": 90,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1038.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 152,
+    "pressure_hpa": 1037.0,
+    "wind_speed_ms": 1.8,
+    "wind_direction_deg": 163,
     "wind_direction_text": "ЮЮВ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-25T19:36:12.900503+00:00"
+  "fetched_at": "2026-10-25T22:32:36.872165+00:00"
 }
