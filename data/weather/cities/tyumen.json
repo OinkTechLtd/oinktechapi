@@ -5,13 +5,13 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": -1.0,
-    "feels_like": -5.2,
-    "humidity": 80,
+    "temperature": 7.5,
+    "feels_like": 3.4,
+    "humidity": 46,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1031.0,
-    "wind_speed_ms": 3.1,
-    "wind_direction_deg": 277,
+    "pressure_hpa": 1030.0,
+    "wind_speed_ms": 2.9,
+    "wind_direction_deg": 259,
     "wind_direction_text": "З",
     "weather_code": 0,
     "description": "Ясно"
@@ -49,93 +49,93 @@
     },
     {
       "time": "2026-10-28T05:00",
-      "temp": -0.9,
+      "temp": -1.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T06:00",
-      "temp": -1.0,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-10-28T07:00",
-      "temp": -1.0,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-10-28T08:00",
       "temp": -0.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
+      "time": "2026-10-28T07:00",
+      "temp": -0.7,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
+      "time": "2026-10-28T08:00",
+      "temp": -0.6,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
       "time": "2026-10-28T09:00",
-      "temp": 1.0,
+      "temp": 1.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T10:00",
-      "temp": 2.8,
+      "temp": 2.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T11:00",
-      "temp": 4.6,
+      "temp": 4.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T12:00",
-      "temp": 6.0,
+      "temp": 6.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T13:00",
-      "temp": 7.0,
+      "temp": 7.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T14:00",
-      "temp": 7.4,
+      "temp": 7.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T15:00",
-      "temp": 7.1,
+      "temp": 7.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T16:00",
-      "temp": 5.6,
+      "temp": 5.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-28T17:00",
-      "temp": 3.8,
+      "temp": 4.0,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-10-28T18:00",
-      "temp": 3.2,
+      "temp": 3.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-28T19:00",
-      "temp": 3.2,
+      "temp": 3.5,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-10-28T20:00",
@@ -145,7 +145,7 @@
     },
     {
       "time": "2026-10-28T21:00",
-      "temp": 3.6,
+      "temp": 3.8,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -157,7 +157,7 @@
     },
     {
       "time": "2026-10-28T23:00",
-      "temp": 4.1,
+      "temp": 4.0,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,67 +165,67 @@
   "forecast_7d": [
     {
       "date": "2026-10-28",
-      "temp_max": 7.4,
+      "temp_max": 7.7,
       "temp_min": -1.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.8,
+      "wind_max_ms": 4.9,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-29",
-      "temp_max": 6.0,
-      "temp_min": 1.7,
-      "precipitation_mm": 0.0,
+      "temp_max": 6.1,
+      "temp_min": 2.0,
+      "precipitation_mm": 0.1,
       "wind_max_ms": 5.3,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-10-30",
-      "temp_max": 6.4,
-      "temp_min": 1.1,
+      "temp_max": 6.0,
+      "temp_min": 1.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.7,
+      "wind_max_ms": 4.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-31",
-      "temp_max": 6.6,
-      "temp_min": -0.2,
+      "temp_max": 6.3,
+      "temp_min": -0.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.4,
+      "wind_max_ms": 3.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-11-01",
-      "temp_max": 5.2,
-      "temp_min": -0.1,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 3.9,
+      "temp_max": 5.7,
+      "temp_min": 0.4,
+      "precipitation_mm": 0.3,
+      "wind_max_ms": 3.7,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-11-02",
-      "temp_max": 3.7,
-      "temp_min": -3.2,
-      "precipitation_mm": 1.2,
-      "wind_max_ms": 4.0,
-      "weather_code": 85,
-      "description": "Снегопад"
+      "temp_max": 4.3,
+      "temp_min": 1.5,
+      "precipitation_mm": 0.3,
+      "wind_max_ms": 4.7,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-11-03",
-      "temp_max": 2.2,
-      "temp_min": -3.7,
+      "temp_max": 3.8,
+      "temp_min": 0.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 4.9,
       "weather_code": 3,
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-28T01:20:46.971036+00:00"
+  "fetched_at": "2026-10-28T08:30:28.041758+00:00"
 }
