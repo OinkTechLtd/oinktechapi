@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": -0.5,
-    "feels_like": -3.1,
-    "humidity": 98,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 1025.0,
+    "temperature": 6.5,
+    "feels_like": 4.6,
+    "humidity": 79,
+    "precipitation_mm": 0.2,
+    "pressure_hpa": 1020.0,
     "wind_speed_ms": 0.8,
-    "wind_direction_deg": 120,
-    "wind_direction_text": "ВЮВ",
-    "weather_code": 45,
-    "description": "Туман"
+    "wind_direction_deg": 157,
+    "wind_direction_text": "ЮЮВ",
+    "weather_code": 61,
+    "description": "Небольшой дождь"
   },
   "hourly": [
     {
@@ -79,19 +79,19 @@
     },
     {
       "time": "2026-11-03T10:00",
-      "temp": -1.6,
+      "temp": -1.2,
       "precip_prob": 0,
       "weather_code": 45
     },
     {
       "time": "2026-11-03T11:00",
-      "temp": 0.0,
+      "temp": 0.5,
       "precip_prob": 0,
       "weather_code": 45
     },
     {
       "time": "2026-11-03T12:00",
-      "temp": 2.5,
+      "temp": 3.0,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -103,119 +103,119 @@
     },
     {
       "time": "2026-11-03T14:00",
-      "temp": 6.0,
+      "temp": 5.8,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-11-03T15:00",
-      "temp": 6.8,
+      "temp": 6.4,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-11-03T16:00",
-      "temp": 7.0,
-      "precip_prob": 5,
+      "temp": 6.7,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-11-03T17:00",
-      "temp": 6.7,
-      "precip_prob": 8,
-      "weather_code": 61
+      "temp": 6.4,
+      "precip_prob": 13,
+      "weather_code": 3
     },
     {
       "time": "2026-11-03T18:00",
-      "temp": 6.5,
-      "precip_prob": 20,
+      "temp": 6.4,
+      "precip_prob": 28,
       "weather_code": 61
     },
     {
       "time": "2026-11-03T19:00",
       "temp": 6.5,
-      "precip_prob": 35,
+      "precip_prob": 60,
       "weather_code": 61
     },
     {
       "time": "2026-11-03T20:00",
-      "temp": 6.7,
-      "precip_prob": 40,
+      "temp": 6.4,
+      "precip_prob": 65,
       "weather_code": 61
     },
     {
       "time": "2026-11-03T21:00",
-      "temp": 6.5,
+      "temp": 6.3,
       "precip_prob": 65,
       "weather_code": 61
     },
     {
       "time": "2026-11-03T22:00",
-      "temp": 6.4,
-      "precip_prob": 73,
+      "temp": 6.3,
+      "precip_prob": 75,
       "weather_code": 61
     },
     {
       "time": "2026-11-03T23:00",
-      "temp": 6.6,
-      "precip_prob": 68,
+      "temp": 6.5,
+      "precip_prob": 75,
       "weather_code": 61
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-11-03",
-      "temp_max": 7.0,
+      "temp_max": 6.7,
       "temp_min": -2.3,
-      "precipitation_mm": 3.2,
-      "wind_max_ms": 1.6,
+      "precipitation_mm": 2.6,
+      "wind_max_ms": 1.7,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-11-04",
-      "temp_max": 9.3,
-      "temp_min": 5.5,
-      "precipitation_mm": 2.8,
-      "wind_max_ms": 2.9,
+      "temp_max": 9.7,
+      "temp_min": 1.7,
+      "precipitation_mm": 5.1,
+      "wind_max_ms": 3.1,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-11-05",
-      "temp_max": 5.7,
+      "temp_max": 1.8,
       "temp_min": -0.4,
-      "precipitation_mm": 6.8,
-      "wind_max_ms": 6.3,
+      "precipitation_mm": 6.9,
+      "wind_max_ms": 5.1,
       "weather_code": 85,
       "description": "Снегопад"
     },
     {
       "date": "2026-11-06",
       "temp_max": 2.5,
-      "temp_min": -0.7,
-      "precipitation_mm": 2.3,
-      "wind_max_ms": 4.4,
-      "weather_code": 71,
-      "description": "Небольшой снег"
+      "temp_min": -0.9,
+      "precipitation_mm": 1.6,
+      "wind_max_ms": 4.9,
+      "weather_code": 85,
+      "description": "Снегопад"
     },
     {
       "date": "2026-11-07",
-      "temp_max": 3.2,
-      "temp_min": 0.5,
-      "precipitation_mm": 0.1,
-      "wind_max_ms": 2.9,
-      "weather_code": 85,
-      "description": "Снегопад"
+      "temp_max": 2.9,
+      "temp_min": 0.4,
+      "precipitation_mm": 0.5,
+      "wind_max_ms": 2.2,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-11-08",
       "temp_max": 1.5,
       "temp_min": -1.7,
-      "precipitation_mm": 0.2,
+      "precipitation_mm": 0.5,
       "wind_max_ms": 4.2,
-      "weather_code": 85,
-      "description": "Снегопад"
+      "weather_code": 71,
+      "description": "Небольшой снег"
     },
     {
       "date": "2026-11-09",
@@ -227,5 +227,5 @@
       "description": "Небольшой снег"
     }
   ],
-  "fetched_at": "2026-11-03T06:45:56.412687+00:00"
+  "fetched_at": "2026-11-03T15:05:50.385150+00:00"
 }
