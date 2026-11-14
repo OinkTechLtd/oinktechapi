@@ -1,38 +1,66 @@
 {
-  "updated_at": "2026-11-14T10:40:04.999208+00:00",
+  "updated_at": "2026-11-14T17:09:31.779642+00:00",
   "cities": [
+    {
+      "key": "krasnodar",
+      "name": "Краснодар",
+      "temp": 15.5,
+      "description": "Ливень",
+      "url": "cities/krasnodar.json"
+    },
+    {
+      "key": "krasnoyarsk",
+      "name": "Красноярск",
+      "temp": -1.6,
+      "description": "Пасмурно",
+      "url": "cities/krasnoyarsk.json"
+    },
+    {
+      "key": "perm",
+      "name": "Пермь",
+      "temp": 2.2,
+      "description": "Пасмурно",
+      "url": "cities/perm.json"
+    },
+    {
+      "key": "voronezh",
+      "name": "Воронеж",
+      "temp": 3.4,
+      "description": "Пасмурно",
+      "url": "cities/voronezh.json"
+    },
     {
       "key": "volgograd",
       "name": "Волгоград",
-      "temp": 17.5,
-      "description": "Пасмурно",
+      "temp": 14.2,
+      "description": "Небольшой дождь",
       "url": "cities/volgograd.json"
     },
     {
       "key": "saratov",
       "name": "Саратов",
-      "temp": 11.4,
+      "temp": 11.5,
       "description": "Пасмурно",
       "url": "cities/saratov.json"
     },
     {
       "key": "tyumen",
       "name": "Тюмень",
-      "temp": 0.7,
+      "temp": -0.5,
       "description": "Пасмурно",
       "url": "cities/tyumen.json"
     },
     {
       "key": "tolyatti",
       "name": "Тольятти",
-      "temp": 5.5,
+      "temp": 8.8,
       "description": "Небольшой дождь",
       "url": "cities/tolyatti.json"
     },
     {
       "key": "izhevsk",
       "name": "Ижевск",
-      "temp": 1.8,
+      "temp": 2.6,
       "description": "Небольшой дождь",
       "url": "cities/izhevsk.json"
     }
