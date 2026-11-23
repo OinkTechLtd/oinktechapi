@@ -1,4 +1,61 @@
 {
-  "updated_at": "2026-11-23T00:56:49.563931+00:00",
-  "cities": []
+  "updated_at": "2026-11-23T09:06:14.862089+00:00",
+  "cities": [
+    {
+      "key": "krasnoyarsk",
+      "name": "Красноярск",
+      "temp": -2.6,
+      "description": "Пасмурно",
+      "url": "cities/krasnoyarsk.json"
+    },
+    {
+      "key": "perm",
+      "name": "Пермь",
+      "temp": 0.5,
+      "description": "Переменная облачность",
+      "url": "cities/perm.json"
+    },
+    {
+      "key": "voronezh",
+      "name": "Воронеж",
+      "temp": 2.5,
+      "description": "Переменная облачность",
+      "url": "cities/voronezh.json"
+    },
+    {
+      "key": "volgograd",
+      "name": "Волгоград",
+      "temp": 5.5,
+      "description": "Преимущественно ясно",
+      "url": "cities/volgograd.json"
+    },
+    {
+      "key": "saratov",
+      "name": "Саратов",
+      "temp": 3.0,
+      "description": "Переменная облачность",
+      "url": "cities/saratov.json"
+    },
+    {
+      "key": "tyumen",
+      "name": "Тюмень",
+      "temp": 1.9,
+      "description": "Пасмурно",
+      "url": "cities/tyumen.json"
+    },
+    {
+      "key": "tolyatti",
+      "name": "Тольятти",
+      "temp": 4.1,
+      "description": "Пасмурно",
+      "url": "cities/tolyatti.json"
+    },
+    {
+      "key": "izhevsk",
+      "name": "Ижевск",
+      "temp": -0.1,
+      "description": "Переменная облачность",
+      "url": "cities/izhevsk.json"
+    }
+  ]
 }
